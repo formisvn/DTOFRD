@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{33321E9D-2670-4FC1-9EFA-711454DB1424}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Downloading_Tool.My.MyApplication</StartupObject>
+    <RootNamespace>Downloading_Tool</RootNamespace>
+    <AssemblyName>Downloading Tool</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>map.ico</ApplicationIcon>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Downloading Tool.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Downloading Tool.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=10.0.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b" />
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Users\dai\Desktop\download_Thao\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=105.2.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Users\dai\Desktop\download_Thao\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp.Build, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Users\dai\Desktop\download_Thao\RestSharp.Build.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cls\cls_chuyendoi.vb" />
+    <Compile Include="Cls\Cls_DataDownloader.vb" />
+    <Compile Include="Cls\Cls_DMHuyen.vb" />
+    <Compile Include="Cls\Cls_DMTinh.vb" />
+    <Compile Include="Cls\Cls_DMXa.vb" />
+    <Compile Include="Cls\Cls_Download.vb" />
+    <Compile Include="Cls\Cls_Gmail.vb" />
+    <Compile Include="Cls\Cls_Language.vb" />
+    <Compile Include="Cls\Ketnoi.vb" />
+    <Compile Include="List\Lst_Huyen2.designer.vb">
+      <DependentUpon>Lst_Huyen2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="List\Lst_Huyen2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List\Lst_Tinh2.designer.vb">
+      <DependentUpon>Lst_Tinh2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="List\Lst_Tinh2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List\Lst_Xa2.designer.vb">
+      <DependentUpon>Lst_Xa2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="List\Lst_Xa2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List\TestForm.Designer.vb">
+      <DependentUpon>TestForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="List\TestForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapPreview.Designer.vb">
+      <DependentUpon>MapPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MapPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modun\Khaibao.vb" />
+    <Compile Include="Splash.Designer.vb">
+      <DependentUpon>Splash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tab\Dulieu.vb">
+      <DependentUpon>Dulieu.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ThongTinCaNhan.Designer.vb">
+      <DependentUpon>ThongTinCaNhan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ThongTinCaNhan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaiVe.Designer.vb">
+      <DependentUpon>TaiVe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TaiVe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DieuKhoan.Designer.vb">
+      <DependentUpon>DieuKhoan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DieuKhoan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Tab\Dulieu.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Dulieu.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TienTrinh2.designer.vb">
+      <DependentUpon>TienTrinh2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TienTrinh2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wait.Designer.vb">
+      <DependentUpon>Wait.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Wait.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XacThucEmail.Designer.vb">
+      <DependentUpon>XacThucEmail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="XacThucEmail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="List\Lst_Huyen2.resx">
+      <DependentUpon>Lst_Huyen2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List\Lst_Tinh2.resx">
+      <DependentUpon>Lst_Tinh2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List\Lst_Xa2.resx">
+      <DependentUpon>Lst_Xa2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List\TestForm.resx">
+      <DependentUpon>TestForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapPreview.resx">
+      <DependentUpon>MapPreview.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongTinCaNhan.resx">
+      <DependentUpon>ThongTinCaNhan.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaiVe.resx">
+      <DependentUpon>TaiVe.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DieuKhoan.resx">
+      <DependentUpon>DieuKhoan.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TienTrinh2.resx">
+      <DependentUpon>TienTrinh2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wait.resx">
+      <DependentUpon>Wait.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XacThucEmail.resx">
+      <DependentUpon>XacThucEmail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Tab\Dulieu.xsc">
+      <DependentUpon>Dulieu.xsd</DependentUpon>
+    </None>
+    <None Include="Tab\Dulieu.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Dulieu.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Tab\Dulieu.xss">
+      <DependentUpon>Dulieu.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="map.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

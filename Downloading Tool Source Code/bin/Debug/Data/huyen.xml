@@ -1,0 +1,3408 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>415</mahuyen>
+    <tenhuyen>Huyện Quế Phong</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>416</mahuyen>
+    <tenhuyen>Huyện Quỳ Châu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>417</mahuyen>
+    <tenhuyen>Huyện Kỳ Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>418</mahuyen>
+    <tenhuyen>Huyện Tương Dương</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>419</mahuyen>
+    <tenhuyen>Huyện Nghĩa Đàn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>420</mahuyen>
+    <tenhuyen>Huyện Quỳ Hợp</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>421</mahuyen>
+    <tenhuyen>Huyện Quỳnh Lưu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>422</mahuyen>
+    <tenhuyen>Huyện Con Cuông</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>423</mahuyen>
+    <tenhuyen>Huyện Tân Kỳ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>424</mahuyen>
+    <tenhuyen>Huyện Anh Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>425</mahuyen>
+    <tenhuyen>Huyện Diễn Châu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>426</mahuyen>
+    <tenhuyen>Huyện Yên Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>427</mahuyen>
+    <tenhuyen>Huyện Đô Lương</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>48</matinh>
+    <mahuyen>490</mahuyen>
+    <tenhuyen>Quận Liên Chiểu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>48</matinh>
+    <mahuyen>493</mahuyen>
+    <tenhuyen>Quận Sơn Trà</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>48</matinh>
+    <mahuyen>494</mahuyen>
+    <tenhuyen>Quận Ngũ Hành Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>428</mahuyen>
+    <tenhuyen>Huyện Thanh Chương</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>429</mahuyen>
+    <tenhuyen>Huyện Nghi Lộc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>430</mahuyen>
+    <tenhuyen>Huyện Nam Đàn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>431</mahuyen>
+    <tenhuyen>Huyện Hưng Nguyên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>432</mahuyen>
+    <tenhuyen>Thị xã Hoàng Mai</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>19</matinh>
+    <mahuyen>167</mahuyen>
+    <tenhuyen>Huyện Định Hóa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>19</matinh>
+    <mahuyen>170</mahuyen>
+    <tenhuyen>Huyện Võ Nhai</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>19</matinh>
+    <mahuyen>172</mahuyen>
+    <tenhuyen>Huyện Phổ Yên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>19</matinh>
+    <mahuyen>168</mahuyen>
+    <tenhuyen>Huyện Phú Lương</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>19</matinh>
+    <mahuyen>171</mahuyen>
+    <tenhuyen>Huyện Đại Từ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>19</matinh>
+    <mahuyen>169</mahuyen>
+    <tenhuyen>Huyện Đồng Hỷ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>19</matinh>
+    <mahuyen>173</mahuyen>
+    <tenhuyen>Huyện Phú Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>19</matinh>
+    <mahuyen>164</mahuyen>
+    <tenhuyen>Thành Phố Thái Nguyên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>19</matinh>
+    <mahuyen>165</mahuyen>
+    <tenhuyen>Thành Phố Sông Công</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>70</matinh>
+    <mahuyen>691</mahuyen>
+    <tenhuyen>Huyện Bù Gia Mập</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>70</matinh>
+    <mahuyen>692</mahuyen>
+    <tenhuyen>Huyện Lộc Ninh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>70</matinh>
+    <mahuyen>693</mahuyen>
+    <tenhuyen>Huyện Bù Đốp</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>70</matinh>
+    <mahuyen>694</mahuyen>
+    <tenhuyen>Huyện Hớn Quản</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>70</matinh>
+    <mahuyen>695</mahuyen>
+    <tenhuyen>Huyện Đồng Phú</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>70</matinh>
+    <mahuyen>696</mahuyen>
+    <tenhuyen>Huyện Bù Đăng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>70</matinh>
+    <mahuyen>697</mahuyen>
+    <tenhuyen>Huyện Chơn Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>72</matinh>
+    <mahuyen>711</mahuyen>
+    <tenhuyen>Huyện Bến Cầu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>72</matinh>
+    <mahuyen>707</mahuyen>
+    <tenhuyen>Huyện Dương Minh Châu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>72</matinh>
+    <mahuyen>710</mahuyen>
+    <tenhuyen>Huyện Gò Dầu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>72</matinh>
+    <mahuyen>709</mahuyen>
+    <tenhuyen>Huyện Hòa Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>72</matinh>
+    <mahuyen>705</mahuyen>
+    <tenhuyen>Huyện Tân Biên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>72</matinh>
+    <mahuyen>706</mahuyen>
+    <tenhuyen>Huyện Tân Châu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>72</matinh>
+    <mahuyen>712</mahuyen>
+    <tenhuyen>Huyện Trảng Bàng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>72</matinh>
+    <mahuyen>708</mahuyen>
+    <tenhuyen>Huyện Châu Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>70</matinh>
+    <mahuyen>698</mahuyen>
+    <tenhuyen>Huyện Phú Riềng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>74</matinh>
+    <mahuyen>719</mahuyen>
+    <tenhuyen>Huyện Bàu Bàng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>74</matinh>
+    <mahuyen>720</mahuyen>
+    <tenhuyen>Huyện Dầu Tiếng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>74</matinh>
+    <mahuyen>722</mahuyen>
+    <tenhuyen>Huyện Phú Giáo</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>74</matinh>
+    <mahuyen>723</mahuyen>
+    <tenhuyen>Huyện Tân Uyên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>74</matinh>
+    <mahuyen>726</mahuyen>
+    <tenhuyen>Huyện Bắc Tân Uyên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>14</matinh>
+    <mahuyen>126</mahuyen>
+    <tenhuyen>Huyện Sông Mã</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>14</matinh>
+    <mahuyen>127</mahuyen>
+    <tenhuyen>Huyện Sốp Cộp</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>14</matinh>
+    <mahuyen>128</mahuyen>
+    <tenhuyen>Huyện Vân Hồ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>15</matinh>
+    <mahuyen>135</mahuyen>
+    <tenhuyen>Huyện Lục Yên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>15</matinh>
+    <mahuyen>136</mahuyen>
+    <tenhuyen>Huyện Văn Yên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>15</matinh>
+    <mahuyen>137</mahuyen>
+    <tenhuyen>Huyện Mù Cang Chải</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>15</matinh>
+    <mahuyen>138</mahuyen>
+    <tenhuyen>Huyện Trấn Yên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>15</matinh>
+    <mahuyen>139</mahuyen>
+    <tenhuyen>Huyện Trạm Tấu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>15</matinh>
+    <mahuyen>140</mahuyen>
+    <tenhuyen>Huyện Văn Chấn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>15</matinh>
+    <mahuyen>141</mahuyen>
+    <tenhuyen>Huyện Yên Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>17</matinh>
+    <mahuyen>148</mahuyen>
+    <tenhuyen>Thành Phố Hòa Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>17</matinh>
+    <mahuyen>150</mahuyen>
+    <tenhuyen>Huyện Đà Bắc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>31</matinh>
+    <mahuyen>306</mahuyen>
+    <tenhuyen>Huyện Hải An</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>48</matinh>
+    <mahuyen>497</mahuyen>
+    <tenhuyen>Huyện Hòa Vang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>46</matinh>
+    <mahuyen>474</mahuyen>
+    <tenhuyen>Thành phố Huế</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>413</mahuyen>
+    <tenhuyen>Thị Xã Cửa Lò</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>52</matinh>
+    <mahuyen>543</mahuyen>
+    <tenhuyen>Huyện Hoài Nhơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>52</matinh>
+    <mahuyen>544</mahuyen>
+    <tenhuyen>Huyện Hoài Ân</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>46</matinh>
+    <mahuyen>482</mahuyen>
+    <tenhuyen>Huyện Phú Lộc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>31</matinh>
+    <mahuyen>311</mahuyen>
+    <tenhuyen>Huyện Thủy Nguyên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>31</matinh>
+    <mahuyen>312</mahuyen>
+    <tenhuyen>Huyện An Dương</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>31</matinh>
+    <mahuyen>313</mahuyen>
+    <tenhuyen>Huyện An Lão</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>31</matinh>
+    <mahuyen>314</mahuyen>
+    <tenhuyen>Huyện Kiến Thụy</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>31</matinh>
+    <mahuyen>315</mahuyen>
+    <tenhuyen>Huyện Tiên Lãng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>31</matinh>
+    <mahuyen>316</mahuyen>
+    <tenhuyen>Huyện Vĩnh Bảo</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>31</matinh>
+    <mahuyen>317</mahuyen>
+    <tenhuyen>Huyện Cát Hải</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>31</matinh>
+    <mahuyen>318</mahuyen>
+    <tenhuyen>Huyện Bạch Long Vỹ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>45</matinh>
+    <mahuyen>461</mahuyen>
+    <tenhuyen>Huyện Đông Hà</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>45</matinh>
+    <mahuyen>462</mahuyen>
+    <tenhuyen>Huyện Quảng Trị</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>45</matinh>
+    <mahuyen>464</mahuyen>
+    <tenhuyen>Huyện Vĩnh Linh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>45</matinh>
+    <mahuyen>465</mahuyen>
+    <tenhuyen>Huyện Hướng Hóa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>45</matinh>
+    <mahuyen>466</mahuyen>
+    <tenhuyen>Huyện Gio Linh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>45</matinh>
+    <mahuyen>467</mahuyen>
+    <tenhuyen>Huyện Đa Krông</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>45</matinh>
+    <mahuyen>468</mahuyen>
+    <tenhuyen>Huyện Cam Lộ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>45</matinh>
+    <mahuyen>470</mahuyen>
+    <tenhuyen>Huyện Hải Lăng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>504</mahuyen>
+    <tenhuyen>Huyện Tây Giang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>505</mahuyen>
+    <tenhuyen>Huyện Đông Giang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>506</mahuyen>
+    <tenhuyen>Huyện Đại Lộc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>507</mahuyen>
+    <tenhuyen>Huyện Điện Bàn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>508</mahuyen>
+    <tenhuyen>Huyện Duy Xuyên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>510</mahuyen>
+    <tenhuyen>Huyện Nam Giang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>511</mahuyen>
+    <tenhuyen>Huyện Phước Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>512</mahuyen>
+    <tenhuyen>Huyện Hiệp Đức</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>513</mahuyen>
+    <tenhuyen>Huyện Thăng Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>514</mahuyen>
+    <tenhuyen>Huyện Tiên Phước</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>37</matinh>
+    <mahuyen>375</mahuyen>
+    <tenhuyen>Huyện Yên Khánh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>37</matinh>
+    <mahuyen>376</mahuyen>
+    <tenhuyen>Huyện Kim Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>37</matinh>
+    <mahuyen>377</mahuyen>
+    <tenhuyen>Huyện Yên Mô</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>42</matinh>
+    <mahuyen>444</mahuyen>
+    <tenhuyen>Huyện Hương Khê</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>52</matinh>
+    <mahuyen>545</mahuyen>
+    <tenhuyen>Huyện Phù Mỹ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>52</matinh>
+    <mahuyen>546</mahuyen>
+    <tenhuyen>Huyện Vĩnh Thạnh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>52</matinh>
+    <mahuyen>547</mahuyen>
+    <tenhuyen>Huyện Tây Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>52</matinh>
+    <mahuyen>548</mahuyen>
+    <tenhuyen>Huyện Phù Cát</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>52</matinh>
+    <mahuyen>550</mahuyen>
+    <tenhuyen>Huyện Tuy Phước</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>52</matinh>
+    <mahuyen>551</mahuyen>
+    <tenhuyen>Huyện Vân Canh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>54</matinh>
+    <mahuyen>555</mahuyen>
+    <tenhuyen>Thành Phố Tuy Hòa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>54</matinh>
+    <mahuyen>562</mahuyen>
+    <tenhuyen>Huyện Tây Hòa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>54</matinh>
+    <mahuyen>564</mahuyen>
+    <tenhuyen>Huyện Đông Hòa </tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>46</matinh>
+    <mahuyen>479</mahuyen>
+    <tenhuyen>Thị Xã Hương Thủy</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>46</matinh>
+    <mahuyen>480</mahuyen>
+    <tenhuyen>Thị Xã Hương Trà</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>46</matinh>
+    <mahuyen>476</mahuyen>
+    <tenhuyen>Huyện Phong Điền</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>46</matinh>
+    <mahuyen>477</mahuyen>
+    <tenhuyen>Huyện Quảng Điền</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>46</matinh>
+    <mahuyen>478</mahuyen>
+    <tenhuyen>Huyện Phú Vang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>46</matinh>
+    <mahuyen>481</mahuyen>
+    <tenhuyen>Huyện A Lưới</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>42</matinh>
+    <mahuyen>436</mahuyen>
+    <tenhuyen>Huyện Hà Tĩnh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>42</matinh>
+    <mahuyen>437</mahuyen>
+    <tenhuyen>Huyện Hồng Lĩnh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>42</matinh>
+    <mahuyen>438</mahuyen>
+    <tenhuyen>Huyện Lộc Hà</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>42</matinh>
+    <mahuyen>439</mahuyen>
+    <tenhuyen>Huyện Hương Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>42</matinh>
+    <mahuyen>440</mahuyen>
+    <tenhuyen>Huyện Đức Thọ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>42</matinh>
+    <mahuyen>441</mahuyen>
+    <tenhuyen>Huyện Vũ Quang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>42</matinh>
+    <mahuyen>442</mahuyen>
+    <tenhuyen>Huyện Nghi Xuân</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>42</matinh>
+    <mahuyen>443</mahuyen>
+    <tenhuyen>Huyện Can Lộc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>42</matinh>
+    <mahuyen>445</mahuyen>
+    <tenhuyen>Huyện Thạch Hà</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>42</matinh>
+    <mahuyen>446</mahuyen>
+    <tenhuyen>Huyện Cẩm Xuyên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>42</matinh>
+    <mahuyen>449</mahuyen>
+    <tenhuyen>Huyện Kỳ Anh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>44</matinh>
+    <mahuyen>450</mahuyen>
+    <tenhuyen>Huyện Đồng Hới</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>44</matinh>
+    <mahuyen>452</mahuyen>
+    <tenhuyen>Huyện Minh Hóa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>44</matinh>
+    <mahuyen>453</mahuyen>
+    <tenhuyen>Huyện Tuyên Hóa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>44</matinh>
+    <mahuyen>454</mahuyen>
+    <tenhuyen>Huyện Quảng Trạch</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>44</matinh>
+    <mahuyen>455</mahuyen>
+    <tenhuyen>Huyện Bố Trạch</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>44</matinh>
+    <mahuyen>456</mahuyen>
+    <tenhuyen>Huyện Quảng Ninh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>44</matinh>
+    <mahuyen>457</mahuyen>
+    <tenhuyen>Huyện Lệ Thủy</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>515</mahuyen>
+    <tenhuyen>Huyện Bắc Trà My</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>516</mahuyen>
+    <tenhuyen>Huyện Nam Trà My</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>517</mahuyen>
+    <tenhuyen>Huyện Núi Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>519</mahuyen>
+    <tenhuyen>Huyện Nông Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>51</matinh>
+    <mahuyen>536</mahuyen>
+    <tenhuyen>Huyện Lý Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>60</matinh>
+    <mahuyen>595</mahuyen>
+    <tenhuyen>Huyện Tuy Phong</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>60</matinh>
+    <mahuyen>598</mahuyen>
+    <tenhuyen>Huyện Hàm Thuận Nam</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>60</matinh>
+    <mahuyen>599</mahuyen>
+    <tenhuyen>Huyện Tánh Linh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>60</matinh>
+    <mahuyen>600</mahuyen>
+    <tenhuyen>Huyện Đức Linh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>60</matinh>
+    <mahuyen>601</mahuyen>
+    <tenhuyen>Huyện Hàm Tân</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>60</matinh>
+    <mahuyen>602</mahuyen>
+    <tenhuyen>Huyện Phú Quý</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>60</matinh>
+    <mahuyen>596</mahuyen>
+    <tenhuyen>Huyện Bắc Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>639</mahuyen>
+    <tenhuyen>Huyện Chư Pưh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>637</mahuyen>
+    <tenhuyen>Huyện Krông Pa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>635</mahuyen>
+    <tenhuyen>Huyện Ia Pa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>634</mahuyen>
+    <tenhuyen>Huyện Đăk Pơ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>633</mahuyen>
+    <tenhuyen>Huyện Chư Sê</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>632</mahuyen>
+    <tenhuyen>Huyện Chư Prông</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>631</mahuyen>
+    <tenhuyen>Huyện Đức Cơ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>630</mahuyen>
+    <tenhuyen>Huyện Kông Chro</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>629</mahuyen>
+    <tenhuyen>Huyện Mang Yang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>628</mahuyen>
+    <tenhuyen>Huyện Ia Grai</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>627</mahuyen>
+    <tenhuyen>Huyện Chư Păh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>626</mahuyen>
+    <tenhuyen>Huyện Đăk Đoa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>625</mahuyen>
+    <tenhuyen>Huyện KBang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>68</matinh>
+    <mahuyen>675</mahuyen>
+    <tenhuyen>Huyện Lạc Dương</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>68</matinh>
+    <mahuyen>676</mahuyen>
+    <tenhuyen>Huyện Lâm Hà</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>68</matinh>
+    <mahuyen>677</mahuyen>
+    <tenhuyen>Huyện Đơn Dương</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>68</matinh>
+    <mahuyen>678</mahuyen>
+    <tenhuyen>Huyện Đức Trọng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>51</matinh>
+    <mahuyen>524</mahuyen>
+    <tenhuyen>Huyện Bình Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>51</matinh>
+    <mahuyen>525</mahuyen>
+    <tenhuyen>Huyện Trà Bồng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>51</matinh>
+    <mahuyen>526</mahuyen>
+    <tenhuyen>Huyện Tây Trà</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>51</matinh>
+    <mahuyen>527</mahuyen>
+    <tenhuyen>Huyện Sơn Tịnh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>51</matinh>
+    <mahuyen>528</mahuyen>
+    <tenhuyen>Huyện Tư Nghĩa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>51</matinh>
+    <mahuyen>529</mahuyen>
+    <tenhuyen>Huyện Sơn Hà</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>51</matinh>
+    <mahuyen>530</mahuyen>
+    <tenhuyen>Huyện Sơn Tây</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>51</matinh>
+    <mahuyen>531</mahuyen>
+    <tenhuyen>Huyện Minh Long</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>51</matinh>
+    <mahuyen>532</mahuyen>
+    <tenhuyen>Huyện Nghĩa Hành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>51</matinh>
+    <mahuyen>533</mahuyen>
+    <tenhuyen>Huyện Mộ Đức</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>51</matinh>
+    <mahuyen>534</mahuyen>
+    <tenhuyen>Huyện Đức Phổ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>51</matinh>
+    <mahuyen>535</mahuyen>
+    <tenhuyen>Huyện Ba Tơ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>54</matinh>
+    <mahuyen>563</mahuyen>
+    <tenhuyen>Huyện Phú Hoà</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>54</matinh>
+    <mahuyen>560</mahuyen>
+    <tenhuyen>Huyện Sơn Hòa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>54</matinh>
+    <mahuyen>559</mahuyen>
+    <tenhuyen>Huyện Tuy An</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>54</matinh>
+    <mahuyen>558</mahuyen>
+    <tenhuyen>Huyện Đồng Xuân</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>4</matinh>
+    <mahuyen>42</mahuyen>
+    <tenhuyen>Huyện Bảo Lâm</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>67</matinh>
+    <mahuyen>666</mahuyen>
+    <tenhuyen>Huyện Đắk R'Lấp</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>67</matinh>
+    <mahuyen>667</mahuyen>
+    <tenhuyen>Huyện Tuy Đức</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>68</matinh>
+    <mahuyen>673</mahuyen>
+    <tenhuyen>Huyện Bảo Lộc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>68</matinh>
+    <mahuyen>674</mahuyen>
+    <tenhuyen>Huyện Đam Rông</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>68</matinh>
+    <mahuyen>679</mahuyen>
+    <tenhuyen>Huyện Di Linh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>68</matinh>
+    <mahuyen>680</mahuyen>
+    <tenhuyen>Huyện Bảo Lâm</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>68</matinh>
+    <mahuyen>681</mahuyen>
+    <tenhuyen>Huyện Đạ Huoai</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>68</matinh>
+    <mahuyen>682</mahuyen>
+    <tenhuyen>Huyện Đạ Tẻh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>68</matinh>
+    <mahuyen>683</mahuyen>
+    <tenhuyen>Huyện Cát Tiên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>80</matinh>
+    <mahuyen>797</mahuyen>
+    <tenhuyen>Huyện Vĩnh Hưng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>83</matinh>
+    <mahuyen>834</mahuyen>
+    <tenhuyen>Huyện Giồng Trôm</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>83</matinh>
+    <mahuyen>835</mahuyen>
+    <tenhuyen>Huyện Bình Đại</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>83</matinh>
+    <mahuyen>836</mahuyen>
+    <tenhuyen>Huyện Ba Tri</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>83</matinh>
+    <mahuyen>837</mahuyen>
+    <tenhuyen>Huyện Thạnh Phú</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>91</matinh>
+    <mahuyen>903</mahuyen>
+    <tenhuyen>Huyện Hòn Đất</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>91</matinh>
+    <mahuyen>906</mahuyen>
+    <tenhuyen>Huyện Giồng Giềng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>91</matinh>
+    <mahuyen>907</mahuyen>
+    <tenhuyen>Huyện Gò Quao</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>91</matinh>
+    <mahuyen>908</mahuyen>
+    <tenhuyen>Huyện An Biên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>91</matinh>
+    <mahuyen>909</mahuyen>
+    <tenhuyen>Huyện An Minh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>91</matinh>
+    <mahuyen>910</mahuyen>
+    <tenhuyen>Huyện Vĩnh Thuận</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>91</matinh>
+    <mahuyen>911</mahuyen>
+    <tenhuyen>Huyện Phú Quốc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>91</matinh>
+    <mahuyen>912</mahuyen>
+    <tenhuyen>Huyện Kiên Hải</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>91</matinh>
+    <mahuyen>913</mahuyen>
+    <tenhuyen>Huyện U Minh Thượng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>94</matinh>
+    <mahuyen>943</mahuyen>
+    <tenhuyen>Huyện Kế Sách</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>94</matinh>
+    <mahuyen>944</mahuyen>
+    <tenhuyen>Huyện Mỹ Tú</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>82</matinh>
+    <mahuyen>820</mahuyen>
+    <tenhuyen>Huyện Cai Lậy</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>82</matinh>
+    <mahuyen>815</mahuyen>
+    <tenhuyen>Thành phố Mỹ Tho</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>82</matinh>
+    <mahuyen>816</mahuyen>
+    <tenhuyen>Thị xã Gò Công</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>82</matinh>
+    <mahuyen>821</mahuyen>
+    <tenhuyen>Huyện Châu Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>82</matinh>
+    <mahuyen>819</mahuyen>
+    <tenhuyen>Huyện Cái Bè</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>12</matinh>
+    <mahuyen>108</mahuyen>
+    <tenhuyen>Huyện Sìn Hồ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>12</matinh>
+    <mahuyen>109</mahuyen>
+    <tenhuyen>Huyện Phong Thổ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>12</matinh>
+    <mahuyen>110</mahuyen>
+    <tenhuyen>Huyện Than Uyên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>12</matinh>
+    <mahuyen>111</mahuyen>
+    <tenhuyen>Huyện Tân Uyên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>12</matinh>
+    <mahuyen>112</mahuyen>
+    <tenhuyen>Huyện Nậm Nhùn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>12</matinh>
+    <mahuyen>107</mahuyen>
+    <tenhuyen>Huyện Mường Tè</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>509</mahuyen>
+    <tenhuyen>Huyện Quế Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>82</matinh>
+    <mahuyen>822</mahuyen>
+    <tenhuyen>Huyện Chợ Gạo</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>82</matinh>
+    <mahuyen>823</mahuyen>
+    <tenhuyen>Huyện Gò Công Tây</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>518</mahuyen>
+    <tenhuyen>Huyện Phú Ninh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>638</mahuyen>
+    <tenhuyen>Huyện Phú Thiện</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>622</mahuyen>
+    <tenhuyen>Thành phố Pleiku</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>380</mahuyen>
+    <tenhuyen>Thành phố Thanh Hóa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>381</mahuyen>
+    <tenhuyen>Thị xã Bỉm Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>384</mahuyen>
+    <tenhuyen>Huyện Mường Lát</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>382</mahuyen>
+    <tenhuyen>Thành phố Sầm Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>30</matinh>
+    <mahuyen>291</mahuyen>
+    <tenhuyen>Huyện Nam Sách</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>48</matinh>
+    <mahuyen>495</mahuyen>
+    <tenhuyen>Quận Cẩm Lệ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>82</matinh>
+    <mahuyen>825</mahuyen>
+    <tenhuyen>Huyện Tân Phú Đông</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>89</matinh>
+    <mahuyen>886</mahuyen>
+    <tenhuyen>Huyện An Phú</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>89</matinh>
+    <mahuyen>887</mahuyen>
+    <tenhuyen>Thị Xã Tân Châu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>89</matinh>
+    <mahuyen>888</mahuyen>
+    <tenhuyen>Huyện Phú Tân</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>89</matinh>
+    <mahuyen>889</mahuyen>
+    <tenhuyen>Huyện Châu Phú</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>89</matinh>
+    <mahuyen>890</mahuyen>
+    <tenhuyen>Huyện Tịnh Biên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>89</matinh>
+    <mahuyen>891</mahuyen>
+    <tenhuyen>Huyện Tri Tôn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>89</matinh>
+    <mahuyen>893</mahuyen>
+    <tenhuyen>Huyện Châu Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>77</matinh>
+    <mahuyen>755</mahuyen>
+    <tenhuyen>Huyện Côn Đảo</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>77</matinh>
+    <mahuyen>747</mahuyen>
+    <tenhuyen>Thành phố Vũng Tàu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>25</matinh>
+    <mahuyen>230</mahuyen>
+    <tenhuyen>Huyện Đoan Hùng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>25</matinh>
+    <mahuyen>231</mahuyen>
+    <tenhuyen>Huyện Hạ Hòa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>25</matinh>
+    <mahuyen>232</mahuyen>
+    <tenhuyen>Huyện Thanh Ba</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>25</matinh>
+    <mahuyen>233</mahuyen>
+    <tenhuyen>Huyện Phù Ninh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>25</matinh>
+    <mahuyen>234</mahuyen>
+    <tenhuyen>Huyện Yên Lập</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>25</matinh>
+    <mahuyen>235</mahuyen>
+    <tenhuyen>Huyện Cẩm Khê</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>25</matinh>
+    <mahuyen>236</mahuyen>
+    <tenhuyen>Huyện Tam Nông</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>25</matinh>
+    <mahuyen>237</mahuyen>
+    <tenhuyen>Huyện Lâm Thao</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>54</matinh>
+    <mahuyen>561</mahuyen>
+    <tenhuyen>Huyện Sông Hinh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>54</matinh>
+    <mahuyen>557</mahuyen>
+    <tenhuyen>Thị Xã Sông Cầu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>52</matinh>
+    <mahuyen>549</mahuyen>
+    <tenhuyen>Thị xã An Nhơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>52</matinh>
+    <mahuyen>540</mahuyen>
+    <tenhuyen>Thành phố Qui Nhơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>52</matinh>
+    <mahuyen>542</mahuyen>
+    <tenhuyen>Huyện An Lão</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>67</matinh>
+    <mahuyen>660</mahuyen>
+    <tenhuyen>Huyện Gia Nghĩa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>67</matinh>
+    <mahuyen>661</mahuyen>
+    <tenhuyen>Huyện Đăk Glong</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>67</matinh>
+    <mahuyen>662</mahuyen>
+    <tenhuyen>Huyện Cư Jút</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>67</matinh>
+    <mahuyen>663</mahuyen>
+    <tenhuyen>Huyện Đắk Mil</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>67</matinh>
+    <mahuyen>664</mahuyen>
+    <tenhuyen>Huyện Krông Nô</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>67</matinh>
+    <mahuyen>665</mahuyen>
+    <tenhuyen>Huyện Đắk Song</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>94</matinh>
+    <mahuyen>945</mahuyen>
+    <tenhuyen>Huyện Cù Lao Dung</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>94</matinh>
+    <mahuyen>946</mahuyen>
+    <tenhuyen>Huyện Long Phú</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>94</matinh>
+    <mahuyen>947</mahuyen>
+    <tenhuyen>Huyện Mỹ Xuyên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>94</matinh>
+    <mahuyen>948</mahuyen>
+    <tenhuyen>Huyện Ngã Năm</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>94</matinh>
+    <mahuyen>950</mahuyen>
+    <tenhuyen>Huyện Vĩnh Châu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>95</matinh>
+    <mahuyen>954</mahuyen>
+    <tenhuyen>Huyện Bạc Liêu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>95</matinh>
+    <mahuyen>956</mahuyen>
+    <tenhuyen>Huyện Hồng Dân</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>95</matinh>
+    <mahuyen>957</mahuyen>
+    <tenhuyen>Huyện Phước Long</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>95</matinh>
+    <mahuyen>959</mahuyen>
+    <tenhuyen>Huyện Giá Rai</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>95</matinh>
+    <mahuyen>961</mahuyen>
+    <tenhuyen>Huyện Hòa Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>96</matinh>
+    <mahuyen>967</mahuyen>
+    <tenhuyen>Huyện Thới Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>96</matinh>
+    <mahuyen>968</mahuyen>
+    <tenhuyen>Huyện Trần Văn Thời</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>96</matinh>
+    <mahuyen>969</mahuyen>
+    <tenhuyen>Huyện Cái Nước</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>96</matinh>
+    <mahuyen>970</mahuyen>
+    <tenhuyen>Huyện Đầm Dơi</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>96</matinh>
+    <mahuyen>971</mahuyen>
+    <tenhuyen>Huyện Năm Căn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>96</matinh>
+    <mahuyen>972</mahuyen>
+    <tenhuyen>Huyện Phú Tân</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>96</matinh>
+    <mahuyen>973</mahuyen>
+    <tenhuyen>Huyện Ngọc Hiển</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>623</mahuyen>
+    <tenhuyen>Huyện An Khê</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>4</matinh>
+    <mahuyen>40</mahuyen>
+    <tenhuyen>Thành Phố Cao Bằng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>10</matinh>
+    <mahuyen>80</mahuyen>
+    <tenhuyen>Thành Phố Lào Cai</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>12</matinh>
+    <mahuyen>105</mahuyen>
+    <tenhuyen>Thành Phố Lai Châu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>15</matinh>
+    <mahuyen>132</mahuyen>
+    <tenhuyen>Thành Phố Yên Bái</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>15</matinh>
+    <mahuyen>133</mahuyen>
+    <tenhuyen>Thị Xã Nghĩa Lộ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>2</matinh>
+    <mahuyen>24</mahuyen>
+    <tenhuyen>Thành Phố Hà Giang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>24</matinh>
+    <mahuyen>213</mahuyen>
+    <tenhuyen>Thành Phố Bắc Giang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>24</matinh>
+    <mahuyen>215</mahuyen>
+    <tenhuyen>Huyện Yên Thế</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>24</matinh>
+    <mahuyen>216</mahuyen>
+    <tenhuyen>Huyện Tân Yên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>24</matinh>
+    <mahuyen>217</mahuyen>
+    <tenhuyen>Huyện Lạng Giang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>24</matinh>
+    <mahuyen>218</mahuyen>
+    <tenhuyen>Huyện Lục Nam</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>24</matinh>
+    <mahuyen>219</mahuyen>
+    <tenhuyen>Huyện Lục Ngạn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>24</matinh>
+    <mahuyen>220</mahuyen>
+    <tenhuyen>Huyện Sơn Động</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>24</matinh>
+    <mahuyen>221</mahuyen>
+    <tenhuyen>Huyện Yên Dũng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>24</matinh>
+    <mahuyen>222</mahuyen>
+    <tenhuyen>Huyện Việt Yên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>24</matinh>
+    <mahuyen>223</mahuyen>
+    <tenhuyen>Huyện Hiệp Hòa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>11</matinh>
+    <mahuyen>102</mahuyen>
+    <tenhuyen>Huyện Mường ảng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>11</matinh>
+    <mahuyen>95</mahuyen>
+    <tenhuyen>Thị Xã Mường Lay</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>11</matinh>
+    <mahuyen>94</mahuyen>
+    <tenhuyen>Thành Phố Điện Biên Phủ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>11</matinh>
+    <mahuyen>96</mahuyen>
+    <tenhuyen>Huyện Mường Nhé</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>11</matinh>
+    <mahuyen>97</mahuyen>
+    <tenhuyen>Huyện Mường Chà</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>11</matinh>
+    <mahuyen>98</mahuyen>
+    <tenhuyen>Huyện Tủa Chùa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>11</matinh>
+    <mahuyen>99</mahuyen>
+    <tenhuyen>Huyện Tuần Giáo</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>11</matinh>
+    <mahuyen>100</mahuyen>
+    <tenhuyen>Huyện Điện Biên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>11</matinh>
+    <mahuyen>101</mahuyen>
+    <tenhuyen>Huyện Điện Biên Đông</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>11</matinh>
+    <mahuyen>103</mahuyen>
+    <tenhuyen>Huyện Nậm Pồ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>6</matinh>
+    <mahuyen>58</mahuyen>
+    <tenhuyen>Thành phố Bắc Kạn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>14</matinh>
+    <mahuyen>119</mahuyen>
+    <tenhuyen>Huyện Thuận Châu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>14</matinh>
+    <mahuyen>120</mahuyen>
+    <tenhuyen>Huyện Mường La</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>14</matinh>
+    <mahuyen>121</mahuyen>
+    <tenhuyen>Huyện Bắc Yên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>14</matinh>
+    <mahuyen>122</mahuyen>
+    <tenhuyen>Huyện Phù Yên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>14</matinh>
+    <mahuyen>124</mahuyen>
+    <tenhuyen>Huyện Yên Châu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>2</matinh>
+    <mahuyen>26</mahuyen>
+    <tenhuyen>Huyện Đồng Văn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>2</matinh>
+    <mahuyen>27</mahuyen>
+    <tenhuyen>Huyện Mèo Vạc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>4</matinh>
+    <mahuyen>44</mahuyen>
+    <tenhuyen>Huyện Thông Nông</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>31</matinh>
+    <mahuyen>308</mahuyen>
+    <tenhuyen>Quận Đồ Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>36</matinh>
+    <mahuyen>356</mahuyen>
+    <tenhuyen>Thành phố Nam Định</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>8</matinh>
+    <mahuyen>70</mahuyen>
+    <tenhuyen>Thành phố Tuyên Quang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>8</matinh>
+    <mahuyen>71</mahuyen>
+    <tenhuyen>Huyện Lâm Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>8</matinh>
+    <mahuyen>72</mahuyen>
+    <tenhuyen>Huyện Nà Hang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>8</matinh>
+    <mahuyen>73</mahuyen>
+    <tenhuyen>Huyện Chiêm Hóa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>8</matinh>
+    <mahuyen>74</mahuyen>
+    <tenhuyen>Huyện Hàm Yên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>8</matinh>
+    <mahuyen>75</mahuyen>
+    <tenhuyen>Huyện Yên Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>8</matinh>
+    <mahuyen>76</mahuyen>
+    <tenhuyen>Huyện Sơn Dương</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>68</matinh>
+    <mahuyen>672</mahuyen>
+    <tenhuyen>Thành phố Đà Lạt</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>405</mahuyen>
+    <tenhuyen>Huyện Đông Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>406</mahuyen>
+    <tenhuyen>Huyện Quảng Xương</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>407</mahuyen>
+    <tenhuyen>Huyện Tĩnh Gia</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>82</matinh>
+    <mahuyen>818</mahuyen>
+    <tenhuyen>Huyện Tân Phước</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>82</matinh>
+    <mahuyen>824</mahuyen>
+    <tenhuyen>Huyện Gò Công Đông</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>89</matinh>
+    <mahuyen>883</mahuyen>
+    <tenhuyen>Thành phố Long Xuyên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>385</mahuyen>
+    <tenhuyen>Huyện Quan Hóa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>386</mahuyen>
+    <tenhuyen>Huyện Bá Thước</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>387</mahuyen>
+    <tenhuyen>Huyện Quan Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>388</mahuyen>
+    <tenhuyen>Huyện Lang Chánh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>389</mahuyen>
+    <tenhuyen>Huyện Ngọc Lặc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>390</mahuyen>
+    <tenhuyen>Huyện Cẩm Thủy</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>391</mahuyen>
+    <tenhuyen>Huyện Thạch Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>392</mahuyen>
+    <tenhuyen>Huyện Hà Trung</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>393</mahuyen>
+    <tenhuyen>Huyện Vĩnh Lộc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>394</mahuyen>
+    <tenhuyen>Huyện Yên Định</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>395</mahuyen>
+    <tenhuyen>Huyện Thọ Xuân</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>396</mahuyen>
+    <tenhuyen>Huyện Thường Xuân</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>397</mahuyen>
+    <tenhuyen>Huyện Triệu Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>398</mahuyen>
+    <tenhuyen>Huyện Thiệu Hóa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>399</mahuyen>
+    <tenhuyen>Huyện Hoằng Hóa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>400</mahuyen>
+    <tenhuyen>Huyện Hậu Lộc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>401</mahuyen>
+    <tenhuyen>Huyện Nga Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>402</mahuyen>
+    <tenhuyen>Huyện Như Xuân</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>403</mahuyen>
+    <tenhuyen>Huyện Như Thanh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>38</matinh>
+    <mahuyen>404</mahuyen>
+    <tenhuyen>Huyện Nông Cống</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>1</matinh>
+    <mahuyen>16</mahuyen>
+    <tenhuyen>Huyện Sóc Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>1</matinh>
+    <mahuyen>277</mahuyen>
+    <tenhuyen>Huyện Chương Mỹ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>1</matinh>
+    <mahuyen>282</mahuyen>
+    <tenhuyen>Huyện Mỹ Đức</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>1</matinh>
+    <mahuyen>275</mahuyen>
+    <tenhuyen>Huyện Quốc oai</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>1</matinh>
+    <mahuyen>276</mahuyen>
+    <tenhuyen>Huyện thạch Thất</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>1</matinh>
+    <mahuyen>269</mahuyen>
+    <tenhuyen>Thị Xã Sơn tây</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>4</matinh>
+    <mahuyen>47</mahuyen>
+    <tenhuyen>Trùng Khánh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>30</matinh>
+    <mahuyen>293</mahuyen>
+    <tenhuyen>Huyện Kim Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>30</matinh>
+    <mahuyen>294</mahuyen>
+    <tenhuyen>Huyện Thanh Hà</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>30</matinh>
+    <mahuyen>295</mahuyen>
+    <tenhuyen>Huyện Cẩm Giàng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>30</matinh>
+    <mahuyen>296</mahuyen>
+    <tenhuyen>Huyện Bình Giang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>30</matinh>
+    <mahuyen>297</mahuyen>
+    <tenhuyen>Huyện Gia Lộc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>30</matinh>
+    <mahuyen>298</mahuyen>
+    <tenhuyen>Huyện Tứ Kỳ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>30</matinh>
+    <mahuyen>299</mahuyen>
+    <tenhuyen>Huyện Ninh Giang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>30</matinh>
+    <mahuyen>300</mahuyen>
+    <tenhuyen>Huyện Thanh Miện</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>45</matinh>
+    <mahuyen>471</mahuyen>
+    <tenhuyen>Huyện Cồn Cỏ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>27</matinh>
+    <mahuyen>256</mahuyen>
+    <tenhuyen>Huyện Bắc Ninh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>93</matinh>
+    <mahuyen>933</mahuyen>
+    <tenhuyen>Huyện Châu Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>93</matinh>
+    <mahuyen>934</mahuyen>
+    <tenhuyen>Huyện Phụng Hiệp</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>93</matinh>
+    <mahuyen>935</mahuyen>
+    <tenhuyen>Huyện Vị Thuỷ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>93</matinh>
+    <mahuyen>936</mahuyen>
+    <tenhuyen>Huyện Long Mỹ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>93</matinh>
+    <mahuyen>932</mahuyen>
+    <tenhuyen>Huyện Châu Thành A</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>60</matinh>
+    <mahuyen>597</mahuyen>
+    <tenhuyen>Huyện Hàm Thuận Bắc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>785</mahuyen>
+    <tenhuyen>Huyện Bình Chánh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>763</mahuyen>
+    <tenhuyen>Quận 9</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>776</mahuyen>
+    <tenhuyen>Quận 8</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>761</mahuyen>
+    <tenhuyen>Quận 12</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>762</mahuyen>
+    <tenhuyen>Quận Thủ Đức</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>764</mahuyen>
+    <tenhuyen>Quận Gò Vấp</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>766</mahuyen>
+    <tenhuyen>Quận Tân Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>767</mahuyen>
+    <tenhuyen>Quận Tân Phú</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>768</mahuyen>
+    <tenhuyen>Quận Phú Nhuận</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>765</mahuyen>
+    <tenhuyen>Quận Bình Thạnh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>92</matinh>
+    <mahuyen>926</mahuyen>
+    <tenhuyen>Huyện Phong Điền</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>92</matinh>
+    <mahuyen>917</mahuyen>
+    <tenhuyen>Huyện Ô Môn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>93</matinh>
+    <mahuyen>937</mahuyen>
+    <tenhuyen>Thị Xã Long Mỹ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>4</matinh>
+    <mahuyen>43</mahuyen>
+    <tenhuyen>Huyện Bảo Lạc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>4</matinh>
+    <mahuyen>45</mahuyen>
+    <tenhuyen>Huyện Hà Quảng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>4</matinh>
+    <mahuyen>46</mahuyen>
+    <tenhuyen>Huyện Trà Lĩnh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>4</matinh>
+    <mahuyen>48</mahuyen>
+    <tenhuyen>Huyện Hạ Lang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>4</matinh>
+    <mahuyen>49</mahuyen>
+    <tenhuyen>Huyện Quảng Uyên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>4</matinh>
+    <mahuyen>50</mahuyen>
+    <tenhuyen>Huyện Phục Hòa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>4</matinh>
+    <mahuyen>51</mahuyen>
+    <tenhuyen>Huyện Hòa An</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>4</matinh>
+    <mahuyen>52</mahuyen>
+    <tenhuyen>Huyện Nguyên Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>87</matinh>
+    <mahuyen>871</mahuyen>
+    <tenhuyen>Huyện Tam Nông</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>80</matinh>
+    <mahuyen>802</mahuyen>
+    <tenhuyen>Huyện Đức Hòa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>80</matinh>
+    <mahuyen>804</mahuyen>
+    <tenhuyen>Huyện Thủ Thừa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>80</matinh>
+    <mahuyen>808</mahuyen>
+    <tenhuyen>Huyện Châu Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>92</matinh>
+    <mahuyen>925</mahuyen>
+    <tenhuyen>Huyện Cờ Đỏ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>20</matinh>
+    <mahuyen>178</mahuyen>
+    <tenhuyen>Thành Phố Lạng Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>22</matinh>
+    <mahuyen>193</mahuyen>
+    <tenhuyen>Thành Phố Hạ Long</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>22</matinh>
+    <mahuyen>194</mahuyen>
+    <tenhuyen>Thành Phố  Móng Cái</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>22</matinh>
+    <mahuyen>195</mahuyen>
+    <tenhuyen>Thành Phố Cẩm Phả</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>22</matinh>
+    <mahuyen>196</mahuyen>
+    <tenhuyen>Thành Phố Uông Bí</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>22</matinh>
+    <mahuyen>206</mahuyen>
+    <tenhuyen>Thành Phố Quảng Yên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>25</matinh>
+    <mahuyen>227</mahuyen>
+    <tenhuyen>Thành Phố Việt Trì</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>25</matinh>
+    <mahuyen>228</mahuyen>
+    <tenhuyen>Thị Xã  Phú Thọ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>412</mahuyen>
+    <tenhuyen>Thành Phố Vinh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>26</matinh>
+    <mahuyen>243</mahuyen>
+    <tenhuyen>Thành Phố  Vĩnh Yên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>30</matinh>
+    <mahuyen>288</mahuyen>
+    <tenhuyen>Thành Phố  Hải Dương</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>30</matinh>
+    <mahuyen>290</mahuyen>
+    <tenhuyen>Thị Xã  Chí Linh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>31</matinh>
+    <mahuyen>303</mahuyen>
+    <tenhuyen>Quận Hồng Bàng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>31</matinh>
+    <mahuyen>304</mahuyen>
+    <tenhuyen>Quận Ngô Quyền</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>34</matinh>
+    <mahuyen>336</mahuyen>
+    <tenhuyen>Thành Phố Thái Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>35</matinh>
+    <mahuyen>347</mahuyen>
+    <tenhuyen>Thành Phố Phủ Lý</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>42</matinh>
+    <mahuyen>447</mahuyen>
+    <tenhuyen>Thị Xã Kỳ Anh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>44</matinh>
+    <mahuyen>458</mahuyen>
+    <tenhuyen>Thị Xã  Ba Đồn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>45</matinh>
+    <mahuyen>469</mahuyen>
+    <tenhuyen>Huyện Triệu Phong</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>502</mahuyen>
+    <tenhuyen>Thành Phố Tam Kỳ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>40</matinh>
+    <mahuyen>414</mahuyen>
+    <tenhuyen>Thị Xã Thái Hòa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>4</matinh>
+    <mahuyen>53</mahuyen>
+    <tenhuyen>Huyện Thạch An</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>6</matinh>
+    <mahuyen>60</mahuyen>
+    <tenhuyen>Huyện Pác Nặm</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>6</matinh>
+    <mahuyen>61</mahuyen>
+    <tenhuyen>Huyện Ba Bể</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>6</matinh>
+    <mahuyen>62</mahuyen>
+    <tenhuyen>Huyện Ngân Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>6</matinh>
+    <mahuyen>63</mahuyen>
+    <tenhuyen>Huyện Bạch Thông</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>6</matinh>
+    <mahuyen>64</mahuyen>
+    <tenhuyen>Huyện Chợ Đồn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>6</matinh>
+    <mahuyen>65</mahuyen>
+    <tenhuyen>Huyện Chợ Mới</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>6</matinh>
+    <mahuyen>66</mahuyen>
+    <tenhuyen>Huyện Na Rì</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>87</matinh>
+    <mahuyen>869</mahuyen>
+    <tenhuyen>Huyện Tân Hồng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>56</matinh>
+    <mahuyen>573</mahuyen>
+    <tenhuyen>Huyện Khánh Vĩnh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>56</matinh>
+    <mahuyen>574</mahuyen>
+    <tenhuyen>Huyện Diên Khánh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>56</matinh>
+    <mahuyen>575</mahuyen>
+    <tenhuyen>Huyện Khánh Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>87</matinh>
+    <mahuyen>872</mahuyen>
+    <tenhuyen>Huyện Tháp Mười</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>87</matinh>
+    <mahuyen>873</mahuyen>
+    <tenhuyen>Huyện Cao Lãnh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>92</matinh>
+    <mahuyen>923</mahuyen>
+    <tenhuyen>Huyện Thốt Nốt</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>49</matinh>
+    <mahuyen>503</mahuyen>
+    <tenhuyen>Thành Phố Hội An</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>51</matinh>
+    <mahuyen>522</mahuyen>
+    <tenhuyen>Thành Phố Quảng Ngãi</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>60</matinh>
+    <mahuyen>593</mahuyen>
+    <tenhuyen>Thành Phố Phan Thiết</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>10</matinh>
+    <mahuyen>82</mahuyen>
+    <tenhuyen>Huyện Bát Xát</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>10</matinh>
+    <mahuyen>83</mahuyen>
+    <tenhuyen>Huyện Mường Khương</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>87</matinh>
+    <mahuyen>874</mahuyen>
+    <tenhuyen>Huyện Thanh Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>87</matinh>
+    <mahuyen>875</mahuyen>
+    <tenhuyen>Huyện Lấp Vò</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>87</matinh>
+    <mahuyen>876</mahuyen>
+    <tenhuyen>Huyện Lai Vung</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>60</matinh>
+    <mahuyen>594</mahuyen>
+    <tenhuyen>Thị Xã La Gi</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>64</matinh>
+    <mahuyen>624</mahuyen>
+    <tenhuyen>Thị Xã Ayun Pa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>70</matinh>
+    <mahuyen>688</mahuyen>
+    <tenhuyen>Thị Xã Phước Long</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>87</matinh>
+    <mahuyen>877</mahuyen>
+    <tenhuyen>Huyện Châu Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>56</matinh>
+    <mahuyen>576</mahuyen>
+    <tenhuyen>Huyện Trường Sa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>70</matinh>
+    <mahuyen>689</mahuyen>
+    <tenhuyen>Thị Xã Đồng Xoài</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>70</matinh>
+    <mahuyen>690</mahuyen>
+    <tenhuyen>Thị Xã Bình Long</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>89</matinh>
+    <mahuyen>884</mahuyen>
+    <tenhuyen>Thành Phố Châu Đốc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>86</matinh>
+    <mahuyen>862</mahuyen>
+    <tenhuyen>Huyện Trà Ôn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>92</matinh>
+    <mahuyen>924</mahuyen>
+    <tenhuyen>Huyện Vĩnh Thạnh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>72</matinh>
+    <mahuyen>703</mahuyen>
+    <tenhuyen>Thành Phố Tây Ninh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>74</matinh>
+    <mahuyen>718</mahuyen>
+    <tenhuyen>Thành Phố Thủ Dầu Một</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>74</matinh>
+    <mahuyen>721</mahuyen>
+    <tenhuyen>Thị Xã Bến Cát</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>74</matinh>
+    <mahuyen>724</mahuyen>
+    <tenhuyen>Thị Xã Dĩ An</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>74</matinh>
+    <mahuyen>725</mahuyen>
+    <tenhuyen>Thị Xã Thuận An</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>80</matinh>
+    <mahuyen>794</mahuyen>
+    <tenhuyen>Thành Phố Tân An</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>80</matinh>
+    <mahuyen>795</mahuyen>
+    <tenhuyen>Thị Xã  Kiến Tường</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>10</matinh>
+    <mahuyen>84</mahuyen>
+    <tenhuyen>Huyện Si Ma Cai</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>10</matinh>
+    <mahuyen>85</mahuyen>
+    <tenhuyen>Huyện Bắc Hà</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>10</matinh>
+    <mahuyen>86</mahuyen>
+    <tenhuyen>Huyện Bảo Thắng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>10</matinh>
+    <mahuyen>87</mahuyen>
+    <tenhuyen>Huyện Bảo Yên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>10</matinh>
+    <mahuyen>88</mahuyen>
+    <tenhuyen>Huyện Sa Pa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>10</matinh>
+    <mahuyen>89</mahuyen>
+    <tenhuyen>Huyện Văn Bàn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>12</matinh>
+    <mahuyen>106</mahuyen>
+    <tenhuyen>Huyện Tam Đường</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>17</matinh>
+    <mahuyen>151</mahuyen>
+    <tenhuyen>Huyện Kỳ Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>17</matinh>
+    <mahuyen>152</mahuyen>
+    <tenhuyen>Huyện Lương Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>17</matinh>
+    <mahuyen>153</mahuyen>
+    <tenhuyen>Huyện Kim Bôi</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>17</matinh>
+    <mahuyen>154</mahuyen>
+    <tenhuyen>Huyện Cao Phong</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>17</matinh>
+    <mahuyen>155</mahuyen>
+    <tenhuyen>Huyện Tân Lạc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>17</matinh>
+    <mahuyen>156</mahuyen>
+    <tenhuyen>Huyện Mai Châu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>17</matinh>
+    <mahuyen>157</mahuyen>
+    <tenhuyen>Huyện Lạc Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>17</matinh>
+    <mahuyen>158</mahuyen>
+    <tenhuyen>Huyện Yên Thủy</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>89</matinh>
+    <mahuyen>892</mahuyen>
+    <tenhuyen>Huyện Chợ Mới</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>89</matinh>
+    <mahuyen>894</mahuyen>
+    <tenhuyen>Huyện Thoại Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>80</matinh>
+    <mahuyen>799</mahuyen>
+    <tenhuyen>Huyện Tân Thạnh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>80</matinh>
+    <mahuyen>800</mahuyen>
+    <tenhuyen>Huyện Thạnh Hóa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>80</matinh>
+    <mahuyen>801</mahuyen>
+    <tenhuyen>Huyện Đức Huệ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>80</matinh>
+    <mahuyen>803</mahuyen>
+    <tenhuyen>Huyện Bến Lức</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>80</matinh>
+    <mahuyen>805</mahuyen>
+    <tenhuyen>Huyện Tân Trụ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>62</matinh>
+    <mahuyen>616</mahuyen>
+    <tenhuyen>Huyện Sa Thầy</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>80</matinh>
+    <mahuyen>806</mahuyen>
+    <tenhuyen>Huyện Cần Đước</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>17</matinh>
+    <mahuyen>159</mahuyen>
+    <tenhuyen>Huyện Lạc Thủy</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>20</matinh>
+    <mahuyen>180</mahuyen>
+    <tenhuyen>Huyện Tràng Định</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>83</matinh>
+    <mahuyen>829</mahuyen>
+    <tenhuyen>Huyện Bến Tre</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>62</matinh>
+    <mahuyen>617</mahuyen>
+    <tenhuyen>Huyện Tu Mơ Rông</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>62</matinh>
+    <mahuyen>618</mahuyen>
+    <tenhuyen>Huyện Ia H' Drai</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>62</matinh>
+    <mahuyen>615</mahuyen>
+    <tenhuyen>Huyện Đắk Hà</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>75</matinh>
+    <mahuyen>736</mahuyen>
+    <tenhuyen>Huyện Định Quán</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>75</matinh>
+    <mahuyen>735</mahuyen>
+    <tenhuyen>Huyện Vĩnh Cửu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>75</matinh>
+    <mahuyen>739</mahuyen>
+    <tenhuyen>Huyện Cẩm Mỹ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>75</matinh>
+    <mahuyen>737</mahuyen>
+    <tenhuyen>Huyện Trảng Bom</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>75</matinh>
+    <mahuyen>738</mahuyen>
+    <tenhuyen>Huyện Thống Nhất</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>75</matinh>
+    <mahuyen>731</mahuyen>
+    <tenhuyen>Thành phố Biên Hòa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>75</matinh>
+    <mahuyen>740</mahuyen>
+    <tenhuyen>Huyện Long Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>75</matinh>
+    <mahuyen>741</mahuyen>
+    <tenhuyen>Huyện Xuân Lộc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>75</matinh>
+    <mahuyen>742</mahuyen>
+    <tenhuyen>Huyện Nhơn Trạch</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>75</matinh>
+    <mahuyen>732</mahuyen>
+    <tenhuyen>Huyện Long Khánh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>75</matinh>
+    <mahuyen>734</mahuyen>
+    <tenhuyen>Huyện Tân Phú</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>46</matinh>
+    <mahuyen>483</mahuyen>
+    <tenhuyen>Huyện Nam Đông</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>14</matinh>
+    <mahuyen>116</mahuyen>
+    <tenhuyen>Thành Phố Sơn La</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>14</matinh>
+    <mahuyen>118</mahuyen>
+    <tenhuyen>Huyện Quỳnh Nhai</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>14</matinh>
+    <mahuyen>123</mahuyen>
+    <tenhuyen>Huyện Mộc Châu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>14</matinh>
+    <mahuyen>125</mahuyen>
+    <tenhuyen>Huyện Mai Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>77</matinh>
+    <mahuyen>748</mahuyen>
+    <tenhuyen>Thành Phố Bà Rịa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>77</matinh>
+    <mahuyen>751</mahuyen>
+    <tenhuyen>Huyện Xuyên Mộc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>77</matinh>
+    <mahuyen>752</mahuyen>
+    <tenhuyen>Huyện Long Điền</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>77</matinh>
+    <mahuyen>753</mahuyen>
+    <tenhuyen>Huyện Đất Đỏ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>77</matinh>
+    <mahuyen>750</mahuyen>
+    <tenhuyen>Huyện Châu Đức</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>77</matinh>
+    <mahuyen>754</mahuyen>
+    <tenhuyen>Huyện Tân Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>770</mahuyen>
+    <tenhuyen>Quận 3</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>783</mahuyen>
+    <tenhuyen>Huyện Củ Chi</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>786</mahuyen>
+    <tenhuyen>Huyện Nhà Bè</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>787</mahuyen>
+    <tenhuyen>Huyện Cần Giờ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>784</mahuyen>
+    <tenhuyen>Huyện Hóc Môn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>20</matinh>
+    <mahuyen>181</mahuyen>
+    <tenhuyen>Huyện Bình Gia</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>20</matinh>
+    <mahuyen>182</mahuyen>
+    <tenhuyen>Huyện Văn Lãng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>20</matinh>
+    <mahuyen>183</mahuyen>
+    <tenhuyen>Huyện Cao Lộc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>20</matinh>
+    <mahuyen>184</mahuyen>
+    <tenhuyen>Huyện Văn Quan</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>20</matinh>
+    <mahuyen>185</mahuyen>
+    <tenhuyen>Huyện Bắc Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>20</matinh>
+    <mahuyen>186</mahuyen>
+    <tenhuyen>Huyện Hữu Lũng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>20</matinh>
+    <mahuyen>187</mahuyen>
+    <tenhuyen>Huyện Chi Lăng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>20</matinh>
+    <mahuyen>188</mahuyen>
+    <tenhuyen>Huyện Lộc Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>20</matinh>
+    <mahuyen>189</mahuyen>
+    <tenhuyen>Huyện Đình lập</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>22</matinh>
+    <mahuyen>198</mahuyen>
+    <tenhuyen>Huyện Bình Liêu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>22</matinh>
+    <mahuyen>199</mahuyen>
+    <tenhuyen>Huyện Tiên Yên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>22</matinh>
+    <mahuyen>200</mahuyen>
+    <tenhuyen>Huyện Đầm Hà</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>22</matinh>
+    <mahuyen>201</mahuyen>
+    <tenhuyen>Huyện Hải Hà</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>22</matinh>
+    <mahuyen>202</mahuyen>
+    <tenhuyen>Huyện Ba Chẽ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>25</matinh>
+    <mahuyen>238</mahuyen>
+    <tenhuyen>Huyện Thanh Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>25</matinh>
+    <mahuyen>239</mahuyen>
+    <tenhuyen>Huyện Thanh Thủy</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>25</matinh>
+    <mahuyen>240</mahuyen>
+    <tenhuyen>Huyện Tân Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>26</matinh>
+    <mahuyen>244</mahuyen>
+    <tenhuyen>Huyện Phúc Yên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>26</matinh>
+    <mahuyen>246</mahuyen>
+    <tenhuyen>Huyện Lập Thạch</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>26</matinh>
+    <mahuyen>247</mahuyen>
+    <tenhuyen>Huyện Tam Duong</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>26</matinh>
+    <mahuyen>248</mahuyen>
+    <tenhuyen>Huyện Tam Dao</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>26</matinh>
+    <mahuyen>249</mahuyen>
+    <tenhuyen>Huyện Bình xuyên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>26</matinh>
+    <mahuyen>253</mahuyen>
+    <tenhuyen>Huyện Sông Lô</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>27</matinh>
+    <mahuyen>258</mahuyen>
+    <tenhuyen>Huyện Yên Phong</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>27</matinh>
+    <mahuyen>259</mahuyen>
+    <tenhuyen>Huyện Quế Võ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>27</matinh>
+    <mahuyen>260</mahuyen>
+    <tenhuyen>Huyện Tiên Du</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>27</matinh>
+    <mahuyen>261</mahuyen>
+    <tenhuyen>Huyện Từ Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>27</matinh>
+    <mahuyen>262</mahuyen>
+    <tenhuyen>Huyện Thuận Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>27</matinh>
+    <mahuyen>263</mahuyen>
+    <tenhuyen>Huyện Gia Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>27</matinh>
+    <mahuyen>264</mahuyen>
+    <tenhuyen>Huyện Lương Tài</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>1</matinh>
+    <mahuyen>271</mahuyen>
+    <tenhuyen>Huyện Ba Vì</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>30</matinh>
+    <mahuyen>292</mahuyen>
+    <tenhuyen>Huyện Kinh Môn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>34</matinh>
+    <mahuyen>340</mahuyen>
+    <tenhuyen>Huyện Đông Hưng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>34</matinh>
+    <mahuyen>341</mahuyen>
+    <tenhuyen>Huyện Thái Thụy</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>34</matinh>
+    <mahuyen>342</mahuyen>
+    <tenhuyen>Huyện Tiền Hải</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>34</matinh>
+    <mahuyen>343</mahuyen>
+    <tenhuyen>Huyện Kiến Xương</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>34</matinh>
+    <mahuyen>344</mahuyen>
+    <tenhuyen>Huyện Vũ Thư</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>35</matinh>
+    <mahuyen>349</mahuyen>
+    <tenhuyen>Huyện Duy Tiên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>35</matinh>
+    <mahuyen>350</mahuyen>
+    <tenhuyen>Huyện Kim Bảng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>35</matinh>
+    <mahuyen>351</mahuyen>
+    <tenhuyen>Huyện Thanh Liêm</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>35</matinh>
+    <mahuyen>352</mahuyen>
+    <tenhuyen>Huyện Bình Lục</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>35</matinh>
+    <mahuyen>353</mahuyen>
+    <tenhuyen>Huyện Lý Nhân</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>36</matinh>
+    <mahuyen>358</mahuyen>
+    <tenhuyen>Huyện Mỹ Lộc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>36</matinh>
+    <mahuyen>359</mahuyen>
+    <tenhuyen>Huyện Vụ Bản</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>36</matinh>
+    <mahuyen>360</mahuyen>
+    <tenhuyen>Huyện Ý Yên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>36</matinh>
+    <mahuyen>361</mahuyen>
+    <tenhuyen>Huyện Nghĩa Hưng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>36</matinh>
+    <mahuyen>362</mahuyen>
+    <tenhuyen>Huyện Nam Trực</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>36</matinh>
+    <mahuyen>363</mahuyen>
+    <tenhuyen>Huyện Trực Ninh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>36</matinh>
+    <mahuyen>364</mahuyen>
+    <tenhuyen>Huyện Xuân Trường</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>36</matinh>
+    <mahuyen>365</mahuyen>
+    <tenhuyen>Huyện Giao Thủy</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>36</matinh>
+    <mahuyen>366</mahuyen>
+    <tenhuyen>Huyện Hải Hậu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>37</matinh>
+    <mahuyen>369</mahuyen>
+    <tenhuyen>Huyện Ninh Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>37</matinh>
+    <mahuyen>370</mahuyen>
+    <tenhuyen>Huyện Tam Điệp</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>37</matinh>
+    <mahuyen>372</mahuyen>
+    <tenhuyen>Huyện Nho Quan</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>37</matinh>
+    <mahuyen>373</mahuyen>
+    <tenhuyen>Huyện Gia Viễn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>37</matinh>
+    <mahuyen>374</mahuyen>
+    <tenhuyen>Huyện Hoa Lư</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>83</matinh>
+    <mahuyen>831</mahuyen>
+    <tenhuyen>Huyện Châu Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>83</matinh>
+    <mahuyen>832</mahuyen>
+    <tenhuyen>Huyện Chợ Lách</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>83</matinh>
+    <mahuyen>833</mahuyen>
+    <tenhuyen>Huyện Mỏ Cày</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>56</matinh>
+    <mahuyen>568</mahuyen>
+    <tenhuyen>Thành phố Nha Trang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>56</matinh>
+    <mahuyen>569</mahuyen>
+    <tenhuyen>Huyện Cam Ranh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>56</matinh>
+    <mahuyen>572</mahuyen>
+    <tenhuyen>Thị xã Ninh Hòa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>56</matinh>
+    <mahuyen>570</mahuyen>
+    <tenhuyen>Huyện Cam Lâm </tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>56</matinh>
+    <mahuyen>571</mahuyen>
+    <tenhuyen>Huyện Vạn Ninh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>96</matinh>
+    <mahuyen>964</mahuyen>
+    <tenhuyen>Thành phố Cà Mau</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>94</matinh>
+    <mahuyen>949</mahuyen>
+    <tenhuyen>Huyện Thạnh Trì</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>95</matinh>
+    <mahuyen>958</mahuyen>
+    <tenhuyen>Huyện Vĩnh Lợi</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>95</matinh>
+    <mahuyen>960</mahuyen>
+    <tenhuyen>Huyện Đông Hải</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>96</matinh>
+    <mahuyen>966</mahuyen>
+    <tenhuyen>Huyện U Minh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>91</matinh>
+    <mahuyen>904</mahuyen>
+    <tenhuyen>Huyện Tân Hiệp</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>91</matinh>
+    <mahuyen>905</mahuyen>
+    <tenhuyen>Huyện Châu Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>94</matinh>
+    <mahuyen>951</mahuyen>
+    <tenhuyen>Huyện Trần Đề</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>80</matinh>
+    <mahuyen>796</mahuyen>
+    <tenhuyen>Huyện Tân Hưng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>80</matinh>
+    <mahuyen>798</mahuyen>
+    <tenhuyen>Huyện Mộc Hóa</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>80</matinh>
+    <mahuyen>807</mahuyen>
+    <tenhuyen>Huyện Cần Giuộc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>2</matinh>
+    <mahuyen>28</mahuyen>
+    <tenhuyen>Huyện Yên Minh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>2</matinh>
+    <mahuyen>29</mahuyen>
+    <tenhuyen>Huyện Quản Bạ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>2</matinh>
+    <mahuyen>30</mahuyen>
+    <tenhuyen>Huyện Vị Xuyên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>33</matinh>
+    <mahuyen>323</mahuyen>
+    <tenhuyen>Huyện Hưng Yên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>33</matinh>
+    <mahuyen>325</mahuyen>
+    <tenhuyen>Huyện Văn Lâm</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>33</matinh>
+    <mahuyen>326</mahuyen>
+    <tenhuyen>Huyện Văn Giang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>33</matinh>
+    <mahuyen>327</mahuyen>
+    <tenhuyen>Huyện Yên Mỹ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>33</matinh>
+    <mahuyen>328</mahuyen>
+    <tenhuyen>Huyện Mỹ Hào</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>33</matinh>
+    <mahuyen>329</mahuyen>
+    <tenhuyen>Huyện Ân Thi</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>33</matinh>
+    <mahuyen>330</mahuyen>
+    <tenhuyen>Huyện Khoái Châu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>33</matinh>
+    <mahuyen>331</mahuyen>
+    <tenhuyen>Huyện Kim Động</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>33</matinh>
+    <mahuyen>332</mahuyen>
+    <tenhuyen>Huyện Tiên Lữ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>33</matinh>
+    <mahuyen>333</mahuyen>
+    <tenhuyen>Huyện Phù Cát</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>34</matinh>
+    <mahuyen>338</mahuyen>
+    <tenhuyen>Huyện Quỳnh Phụ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>34</matinh>
+    <mahuyen>339</mahuyen>
+    <tenhuyen>Huyện Hưng Hà</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>48</matinh>
+    <mahuyen>491</mahuyen>
+    <tenhuyen>Quận Thanh Khê</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>2</matinh>
+    <mahuyen>31</mahuyen>
+    <tenhuyen>Huyện Bắc Mê</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>2</matinh>
+    <mahuyen>32</mahuyen>
+    <tenhuyen>Huyện Hoàng Su Phì</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>2</matinh>
+    <mahuyen>33</mahuyen>
+    <tenhuyen>Huyện Xín Mần</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>2</matinh>
+    <mahuyen>34</mahuyen>
+    <tenhuyen>Huyện Bắc Quang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>2</matinh>
+    <mahuyen>35</mahuyen>
+    <tenhuyen>Huyện Quang Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>48</matinh>
+    <mahuyen>492</mahuyen>
+    <tenhuyen>Quận Hải Châu</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>58</matinh>
+    <mahuyen>588</mahuyen>
+    <tenhuyen>Huyện Thuận Bắc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>58</matinh>
+    <mahuyen>587</mahuyen>
+    <tenhuyen>Huyện Ninh Phước</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>58</matinh>
+    <mahuyen>589</mahuyen>
+    <tenhuyen>Huyện Thuận Nam</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>58</matinh>
+    <mahuyen>582</mahuyen>
+    <tenhuyen>Thành Phố Phan Rang-Tháp Chàm</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>58</matinh>
+    <mahuyen>584</mahuyen>
+    <tenhuyen>Huyện Bác ái</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>58</matinh>
+    <mahuyen>585</mahuyen>
+    <tenhuyen>Huyện Ninh Sơn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>58</matinh>
+    <mahuyen>586</mahuyen>
+    <tenhuyen>Huyện Ninh Hải</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>62</matinh>
+    <mahuyen>608</mahuyen>
+    <tenhuyen>Thành Phố Kon Tum</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>62</matinh>
+    <mahuyen>610</mahuyen>
+    <tenhuyen>Huyện Đắk Glei</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>62</matinh>
+    <mahuyen>611</mahuyen>
+    <tenhuyen>Huyện Ngọc Hồi</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>62</matinh>
+    <mahuyen>612</mahuyen>
+    <tenhuyen>Huyện Đắk Tô</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>62</matinh>
+    <mahuyen>613</mahuyen>
+    <tenhuyen>Huyện Kon Plông</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>62</matinh>
+    <mahuyen>614</mahuyen>
+    <tenhuyen>Huyện Kon Rẫy</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>769</mahuyen>
+    <tenhuyen>Quận 2</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>66</matinh>
+    <mahuyen>649</mahuyen>
+    <tenhuyen>Huyện Krông Búk</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>760</mahuyen>
+    <tenhuyen>Quận 1</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>777</mahuyen>
+    <tenhuyen>Quận Bình Tân</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>771</mahuyen>
+    <tenhuyen>Quận 10</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>772</mahuyen>
+    <tenhuyen>Quận 11</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>773</mahuyen>
+    <tenhuyen>Quận 4</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>774</mahuyen>
+    <tenhuyen>Quận 5</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>775</mahuyen>
+    <tenhuyen>Quận 6</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>79</matinh>
+    <mahuyen>778</mahuyen>
+    <tenhuyen>Quận 7</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>84</matinh>
+    <mahuyen>851</mahuyen>
+    <tenhuyen>Thị Xã  Duyên Hải</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>84</matinh>
+    <mahuyen>850</mahuyen>
+    <tenhuyen>Huyện Duyên Hải</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>84</matinh>
+    <mahuyen>844</mahuyen>
+    <tenhuyen>Huyện Càng Long</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>84</matinh>
+    <mahuyen>845</mahuyen>
+    <tenhuyen>Huyện Cầu Kè</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>84</matinh>
+    <mahuyen>846</mahuyen>
+    <tenhuyen>Huyện Tiểu Cần</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>84</matinh>
+    <mahuyen>847</mahuyen>
+    <tenhuyen>Huyện Châu Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>84</matinh>
+    <mahuyen>848</mahuyen>
+    <tenhuyen>Huyện Cầu Ngang</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>84</matinh>
+    <mahuyen>849</mahuyen>
+    <tenhuyen>Huyện Trà Cú</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>22</matinh>
+    <mahuyen>203</mahuyen>
+    <tenhuyen>Huyện Vân Đồn</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>22</matinh>
+    <mahuyen>204</mahuyen>
+    <tenhuyen>Huyện Hoành Bồ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>22</matinh>
+    <mahuyen>205</mahuyen>
+    <tenhuyen>Huyện Đông Triều</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>22</matinh>
+    <mahuyen>207</mahuyen>
+    <tenhuyen>Huyện Cô Tô</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>86</matinh>
+    <mahuyen>855</mahuyen>
+    <tenhuyen>Huyện Vĩnh Long</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>86</matinh>
+    <mahuyen>857</mahuyen>
+    <tenhuyen>Huyện Long Hồ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>86</matinh>
+    <mahuyen>858</mahuyen>
+    <tenhuyen>Huyện Mang Thít</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>86</matinh>
+    <mahuyen>859</mahuyen>
+    <tenhuyen>Huyện Vũng Liêm</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>86</matinh>
+    <mahuyen>860</mahuyen>
+    <tenhuyen>Huyện Tam Bình</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>86</matinh>
+    <mahuyen>861</mahuyen>
+    <tenhuyen>Huyện Bình Minh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>91</matinh>
+    <mahuyen>899</mahuyen>
+    <tenhuyen>Huyện Rạch Giá</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>91</matinh>
+    <mahuyen>900</mahuyen>
+    <tenhuyen>Huyện Hà Tiên</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>91</matinh>
+    <mahuyen>902</mahuyen>
+    <tenhuyen>Huyện Kiên Lương</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>91</matinh>
+    <mahuyen>914</mahuyen>
+    <tenhuyen>Huyện Giang Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>92</matinh>
+    <mahuyen>916</mahuyen>
+    <tenhuyen>Huyện Ninh Kiều</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>92</matinh>
+    <mahuyen>918</mahuyen>
+    <tenhuyen>Huyện Bình Thuỷ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>92</matinh>
+    <mahuyen>919</mahuyen>
+    <tenhuyen>Huyện Cái Răng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>94</matinh>
+    <mahuyen>941</mahuyen>
+    <tenhuyen>Huyện Sóc Trăng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>94</matinh>
+    <mahuyen>942</mahuyen>
+    <tenhuyen>Huyện Châu Thành</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>31</matinh>
+    <mahuyen>305</mahuyen>
+    <tenhuyen>Quận Lê Chân</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>31</matinh>
+    <mahuyen>307</mahuyen>
+    <tenhuyen>Quận Kiến An</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>31</matinh>
+    <mahuyen>309</mahuyen>
+    <tenhuyen>Quận Dương Kinh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>84</matinh>
+    <mahuyen>842</mahuyen>
+    <tenhuyen>Thành Phố Trà Vinh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>87</matinh>
+    <mahuyen>866</mahuyen>
+    <tenhuyen>Thành Phố Cao Lãnh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>87</matinh>
+    <mahuyen>867</mahuyen>
+    <tenhuyen>Thành Phố Sa Đéc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>87</matinh>
+    <mahuyen>870</mahuyen>
+    <tenhuyen>Thị Xã Hồng Ngự</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>93</matinh>
+    <mahuyen>930</mahuyen>
+    <tenhuyen>Thành Phố  Vị Thanh</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>66</matinh>
+    <mahuyen>650</mahuyen>
+    <tenhuyen>Huyện Krông Năng</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>66</matinh>
+    <mahuyen>652</mahuyen>
+    <tenhuyen>Huyện M'Đrắk</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>66</matinh>
+    <mahuyen>654</mahuyen>
+    <tenhuyen>Huyện Krông Pắc</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>66</matinh>
+    <mahuyen>655</mahuyen>
+    <tenhuyen>Huyện Krông A Na</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>66</matinh>
+    <mahuyen>657</mahuyen>
+    <tenhuyen>Huyện Cư Kuin</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>66</matinh>
+    <mahuyen>643</mahuyen>
+    <tenhuyen>Thành phố Buôn Ma Thuột</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>66</matinh>
+    <mahuyen>645</mahuyen>
+    <tenhuyen>Huyện Ea H'leo</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>66</matinh>
+    <mahuyen>646</mahuyen>
+    <tenhuyen>Huyện Ea Súp</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>66</matinh>
+    <mahuyen>648</mahuyen>
+    <tenhuyen>Huyện Cư M'gar</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>66</matinh>
+    <mahuyen>651</mahuyen>
+    <tenhuyen>Huyện Ea Kar</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>66</matinh>
+    <mahuyen>653</mahuyen>
+    <tenhuyen>Huyện Krông Bông</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>66</matinh>
+    <mahuyen>656</mahuyen>
+    <tenhuyen>Huyện Lắk</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>66</matinh>
+    <mahuyen>644</mahuyen>
+    <tenhuyen>Thị Xã  Buôn Hồ</tenhuyen>
+  </Huyen>
+  <Huyen>
+    <matinh>66</matinh>
+    <mahuyen>647</mahuyen>
+    <tenhuyen>Huyện Buôn Đôn</tenhuyen>
+  </Huyen>
+</DocumentElement>

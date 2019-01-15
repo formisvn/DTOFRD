@@ -1,0 +1,218 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Truong>
+    <column_name>matinh</column_name>
+    <column_name_vi>Mã Tỉnh</column_name_vi>
+	<column_name_en>Province code</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>tinh</column_name>
+    <column_name_vi>Tỉnh</column_name_vi>
+	<column_name_en>Province name</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>mahuyen</column_name>
+    <column_name_vi>Mã Huyện</column_name_vi>
+	<column_name_en>District code</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>huyen</column_name>
+    <column_name_vi>Huyện</column_name_vi>
+	<column_name_en>District name</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>maxa</column_name>
+    <column_name_vi>Mã xã</column_name_vi>
+	<column_name_en>Commune code</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>xa</column_name>
+    <column_name_vi>Xã</column_name_vi>
+	<column_name_en>Commune name</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>tieukhu</column_name>
+    <column_name_vi>Tiểu khu</column_name_vi>
+	<column_name_en>Compartment</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>khoanh</column_name>
+    <column_name_vi>Khoảnh</column_name_vi>
+	<column_name_en>Sub Compartment</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>malo</column_name>
+    <column_name_vi>Mã Lô</column_name_vi>
+	<column_name_en>Plot code</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>thuad</column_name>
+    <column_name_vi>Số hiệu thửa đất</column_name_vi>
+	<column_name_en>Parcel</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>tobd</column_name>
+    <column_name_vi>Số hiệu tờ bản đồ địa chính</column_name_vi>
+	<column_name_en>Map sheet</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>ddanh</column_name>
+    <column_name_vi>Địa danh, thôn bản</column_name_vi>
+	<column_name_en>Village</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>dtich</column_name>
+    <column_name_vi>Diện tích</column_name_vi>
+	<column_name_en>Area</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>nqh</column_name>
+    <column_name_vi>Tình trạng nguyên sinh</column_name_vi>
+	<column_name_en>Forest use situation</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>mamdsd</column_name>
+    <column_name_vi>Mã mục đích sử dụng</column_name_vi>
+	<column_name_en>Forest function, sub-class code</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>mdsd</column_name>
+    <column_name_vi>Mục đích sử dụng</column_name_vi>
+	<column_name_en>Forest function, sub-class</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>malr3</column_name>
+    <column_name_vi>Mã số 3 loại rừng</column_name_vi>
+	<column_name_en>Three forest type code</column_name_en>
+  </Truong>
+   <Truong>
+    <column_name>lapdia</column_name>
+    <column_name_vi>Điều kiện lập địa</column_name_vi>
+	<column_name_en>Site condition</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>maldlr</column_name>
+    <column_name_vi>Mã loại đất loại rừng</column_name_vi>
+	<column_name_en>Forest type code</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>ldlr_vt</column_name>
+    <column_name_vi>Loại đất loại rừng (viết tắt)</column_name_vi>
+	<column_name_en>Forest type (short)</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>ldlr</column_name>
+    <column_name_vi>Loại đất loại rừng</column_name_vi>
+	<column_name_en>Forest type</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>nggocr</column_name>
+    <column_name_vi>Nguồn gốc rừng</column_name_vi>
+	<column_name_en>Forest origin</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>ngsinh</column_name>
+    <column_name_vi>Tình trạng nguyên sinh</column_name_vi>
+	<column_name_en>Natural forest origin</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>ngocrt</column_name>
+    <column_name_vi>Nguồn gốc rừng trồng</column_name_vi>
+	<column_name_en>Plantation forest origin</column_name_en>
+  </Truong> 
+   <Truong>
+    <column_name>thanhrung</column_name>
+    <column_name_vi>Thành rừng (Thành rừng=1, chưa thành rừng=2)</column_name_vi>
+	<column_name_en>State of plantation (Plantation (with volume)=1, New plantation (without volume)=2)</column_name_en>
+  </Truong> 
+  <Truong>
+    <column_name>maloaicay</column_name>
+    <column_name_vi>Mã loài cây</column_name_vi>
+	<column_name_en>Tree species code</column_name_en>
+  </Truong> 
+  <Truong>
+    <column_name>tenloaicay</column_name>
+    <column_name_vi>Tên loài cây</column_name_vi>
+	<column_name_en>Tree species name</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>tenchi</column_name>
+    <column_name_vi>Tên Chi</column_name_vi>
+	<column_name_en>Tree species name (short)</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>namtr</column_name>
+    <column_name_vi>Năm trồng</column_name_vi>
+	<column_name_en>Planting year</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>ktan</column_name>
+    <column_name_vi>Khép tán</column_name_vi>
+	<column_name_en>Average years to closed canopy</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>mgo</column_name>
+    <column_name_vi>Trữ lượng gỗ (m3/ha)</column_name_vi>
+	<column_name_en>Volume, m3/ha </column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>mgolo</column_name>
+    <column_name_vi>Trữ lượng gỗ của lô (m3)</column_name_vi>
+	<column_name_en>Volume, m3/plot </column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>mtn</column_name>
+    <column_name_vi>Số cây tre nứa (1000 cây/ha)</column_name_vi>
+	<column_name_en>Number of stems for bamboo, 1000 stems/ha </column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>mtnlo</column_name>
+    <column_name_vi>Số cây tre nứa của lô (1000 cây)</column_name_vi>
+	<column_name_en>Number of stems for bamboo, 1000 stems/plot </column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>machur</column_name>
+    <column_name_vi>Mã chủ rừng</column_name_vi>
+	<column_name_en>Forest owner code</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>dtuong</column_name>
+    <column_name_vi>Loại chủ rừng</column_name_vi>
+	<column_name_en>Forest owner type</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>quyensd</column_name>
+    <column_name_vi>Quyền sử dụng rừng</column_name_vi>
+	<column_name_en>Land use certificate </column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>thoihansd</column_name>
+    <column_name_vi>Thời hạn sử dụng rừng</column_name_vi>
+	<column_name_en>Land use tenure</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>trchap</column_name>
+    <column_name_vi>Tình trạng tranh chấp</column_name_vi>
+	<column_name_en>Conflict situation</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>mangtrch</column_name>
+    <column_name_vi>Tên người tranh chấp</column_name_vi>
+	<column_name_en>Conflict forest owner</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>khoan</column_name>
+    <column_name_vi>Tình trạng khoán</column_name_vi>
+	<column_name_en>Protection contract </column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>mangnk</column_name>
+    <column_name_vi>Tên người nhận khoán</column_name_vi>
+	<column_name_en>Forest protector</column_name_en>
+  </Truong>
+  <Truong>
+    <column_name>locu</column_name>
+    <column_name_vi>Mã lô cũ</column_name_vi>
+	<column_name_en>Old plot number</column_name_en>
+  </Truong>
+</DocumentElement>

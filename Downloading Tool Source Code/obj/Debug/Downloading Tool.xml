@@ -1,0 +1,147 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DownloadingTool
+</name>
+</assembly>
+<members>
+<member name="T:Downloading_Tool.Dulieu.TruongDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.huyenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.xaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.TinhDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.DatasharingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.ThongtinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.lang_enDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.lang_viDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.tochucDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.taive_enDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.taive_viDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.TruongRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.huyenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.xaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.TinhRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.DatasharingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.ThongtinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.lang_enRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.lang_viRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.tochucRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.taive_enRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.taive_viRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.TruongRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.huyenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.xaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.TinhRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.DatasharingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.ThongtinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.lang_enRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.lang_viRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.tochucRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.taive_enRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu.taive_viRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Downloading_Tool.Dulieu">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

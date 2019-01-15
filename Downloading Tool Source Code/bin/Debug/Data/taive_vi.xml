@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <taive_vi>
+    <Group_3>Nhập các thông tin dữ liệu cần tải về</Group_3>
+	<group_hanhchinh>Chọn đơn vị hành chính cần xuất dữ liệu</group_hanhchinh>
+	<Group_chiso>Lựa chọn chỉ số</Group_chiso>
+	<Group_shapefile>Chọn tên file lưu thành</Group_shapefile>
+	<CmdHuy>Hủy</CmdHuy>
+	<cmdTaiVe>Tải về</cmdTaiVe>
+	<lab_chonDL>Cơ sở dữ liệu</lab_chonDL>
+	<lab_tinh>Chọn tỉnh</lab_tinh>
+	<lab_huyen>Chọn huyện</lab_huyen>
+	<lab_xa>Chọn xã</lab_xa>
+	<chk_all>Chọn tất cả</chk_all>
+	<CmdThayDoi>Chọn tên file</CmdThayDoi>
+	<Group_nam>Chọn dữ liệu 4 chu kỳ theo năm</Group_nam>
+	<CmdCSVFile>CSV file</CmdCSVFile>
+	<CmdCSVFile>CSV file</CmdCSVFile>
+  </taive_vi>
+  
+</DocumentElement>

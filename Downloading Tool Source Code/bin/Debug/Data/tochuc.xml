@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <tochuc>
+    <tentc_vi>Cục kiểm lâm</tentc_vi>
+	<tentc_en>Department of Forest Protection</tentc_en>
+  </tochuc>
+    <tochuc>
+    <tentc_vi>Các cơ quan lâm nghiệp nhà nước (Vụ, các Vụ trực thuộc Tổng cục lâm nghiệp, Sở NNPTNT)</tentc_vi>
+	<tentc_en>State forestry organizations (Departments under VNFOREST, DARDs)</tentc_en>
+  </tochuc>
+    <tochuc>
+    <tentc_vi>Chi cục Kiểm lâm vùng (4 vùng)</tentc_vi>
+	<tentc_en>Regional Sub FPDs (4 regions)</tentc_en>
+  </tochuc>
+    <tochuc>
+    <tentc_vi>Chi cục Kiểm lâm tỉnh và Hạt Kiểm lâm huyện</tentc_vi>
+	<tentc_en>Provincial Sub FPDs and District FPDs</tentc_en>
+  </tochuc>
+    <tochuc>
+    <tentc_vi>Các Trường đại học, Viện nghiên cứu</tentc_vi>
+	<tentc_en>Universities, Institutes</tentc_en>
+  </tochuc>
+    <tochuc>
+    <tentc_vi>Các dự án trực thuộc Bộ NNPTNT/TCLN và các Bộ khác</tentc_vi>
+	<tentc_en>Projects under MARD and other Ministries</tentc_en>
+  </tochuc>
+    <tochuc>
+    <tentc_vi>Các đơn vị, tổ chức khác: các tổ chức Chính phủ nước ngoài, các dự án phi Chính phủ</tentc_vi>
+	<tentc_en>Other agencies, NGO organizations, international organizations</tentc_en>
+  </tochuc>
+  <tochuc>
+    <tentc_vi>Khác</tentc_vi>
+	<tentc_en>Others</tentc_en>
+  </tochuc>
+</DocumentElement>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="CmdNext1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="txtdieukhoan.Text" xml:space="preserve">
+    <value>1: Tuyên bố về quyền sở hữu trí tuệ
+
+Đối tượng quyền sở hữu trí tuệ trong phạm vi của Điều khoản về quyền sở hữu trí tuệ này được hiểu là tất cả các nội dung bao gồm nhưng không giới hạn bởi trang web AVIA.VN, các giao diện, thiết kế, đồ họa, chương trình phần mềm, mã code, nhãn hiệu, thương hiệu, logo, bài viết, văn bản, hình ảnh bình luận, các thông tin, chương trình khuyến mãi ... do WEFLY đăng tải trên trang web AVIA.VN hoặc trên bất kỳ trang mạng xã hội, ứng dụng hoặc kênh quảng bá nào khác của WEFLY bao gồm nhưng không giới hạn bởi Facebook.com, Zalo, Instagram, Twitter, Viber, ... bao gồm cả các nội dung có tác giả là WEFLY hoặc có tác giả là một bên thứ ba nào khác.
+Chúng tôi - CÔNG TY TNHH WEFLY (Sau đây gọi là WEFLY) thông tin rằng WEFLY là chủ sở hữu hợp pháp của Đối tượng quyền sở hữu trí tuệ nói trên và các Đối tượng này được bảo hộ theo quy định của pháp luật về sở hữu trí tuệ và các quy định pháp luật khác.
+Mọi hành vi của người sử dụng bao gồm nhưng không giới hạn các hành vi sử dụng, sao chép, trích dẫn, tái xuất bản, lưu thông, chỉnh sửa, chuyển ngữ, biên soạn ... toàn bộ hay một phần các nội dung trên AVIA.VN vì mục đích thương mại hay phi thương mại mà không được sự đồng ý trước bằng văn bản của WEFLY được xem là hành vi xâm phạm quy định pháp luật về quyền sở hữu trí tuệ trừ trường hợp pháp luật Việt Nam có quy định khác, WEFLY có quyền yêu cầu bên vi phạm chấm dứt ngay hành vi vi phạm và bồi thường thiệt hại theo quy định của pháp luật. Người sử dụng cam kết sẽ không thực hiện bất kỳ hành vi nào nhằm vô hiệu hóa hoặc có` những hành vi xâm phạm khác vào các tính năng bảo mật, chức năng ngăn chặn, cấm sử dụng, sao chép của WEFLY trên trang web AVIA.VN, các trang mạng xã hội, ứng dụng hoặc kênh quảng bá nào khác mà WEFLY quản lý.
+Bản quyền về nội dung do người sử dụng đăng tải
+Đối với nội dung, hình ảnh mà người sử dụng đăng tải trên trang web AVIA,VN hay trên các trang mạng xã hội, ứng dụng có chứa đựng thông tin của WEFLY như Facebook.com, Zalo, Instagram, Twitter, Viber ... chúng tôi được toàn quyền với các vấn đề sau:
+Người sử dụng đồng ý rằng sẽ phải tự chịu trách nhiệm pháp lý đối với các nội dung bao gồm nhưng không giới hạn về thông tin, hình ảnh, bình luận ... do người sử dụng đăng tải hoặc người thứ ba thông qua tài khoản của người sử dụng đăng tải;
+Bằng việc đăng tải các thông tin trên website AVIA.VN, trên trang mạng xã hội, ứng dụng khác mà WEFLY quản lý, người sử dụng đồng ý rằng đã chuyển quyền sử dụng đối với các nội dung đăng tải cho WEFLY. Khi đó, người sử dụng đồng ý rằng WEFLY được toàn quyền sử dụng bao gồm nhưng không giới hạn các nội dung, hình ảnh, bình luận ... mà người sử dụng đã đăng tải, WEFLY được quyền sao chép, chia sẻ, sửa đổi (bao gồm nhưng không giới hạn việc: đổi tên, cắt ngắn, chia nhỏ,...), sử dụng một phần hoặc toàn bộ nội dung người sử dụng đã đăng tải vào mục đích kinh doanh khác của WEFLY. Trong trường hợp các nội dung đăng tải của người sử dụng vi phạm quy định pháp luật, thuần phong mỹ tục hoặc vi phạm các chính sách, điều khoản của WEFLY, WEFLY được quyền xóa bỏ các nội dung này trên AVIA.VN, các trang mạng xã hội và ứng dụng khác do WEFLY quản lý.
+
+2: Cam kết của người sử dụng
+
+Người sử dụng cam kết sẽ không đăng tải các nội dung thuộc bản quyền, các bí mật thương mại hoặc các quyền sở hữu trí tuệ khác của bên thứ ba, trừ khi người sử dụng là chủ sở hữu hợp pháp hoặc có quyền sử dụng hợp pháp các thông tin này theo quy định của pháp luật hoặc được sự chấp thuận của chủ sở hữu về việc đăng tải thông tin này.
+Người sử dụng cam kết không khiếu nại WEFLY về các rủi ro, tổn thất hay chi phí phát sinh từ việc:
+Người sử dụng sử dụng trang web AVIA.VN, trang mạng xã hội, ứng dụng khác do WEFLY quản lý;
+Người sử dụng vi phạm các quy định về Điều khoản sử dụng của trang web AVIA.VN, trang mạng xã hội, ứng dụng khác do WEFLY quản lý và các chính sách, điều khoản khác của WEFLY;
+Người sử dụng vi phạm bản quyền, bí mật thương mại hoặc quyền sở hữu trí tuệ khác đối với bên thứ ba;
+Khiếu nại, khiếu kiện từ bên thứ ba về hành vi đăng tải thông tin của người sử dụng trên trang web AVIA.VN, trang mạng xã hội, ứng dụng khác do WEFLY quản lý.
+Đồng thời, người sử dụng cũng đồng ý rằng WEFLY được toàn quyền thay đổi mọi thông tin trong Điều khoản về quyền sở hữu trí tuệ mà không phải thông báo cho người sử dụng.
+
+3: Miễn trừ trách nhiệm
+
+WEFLY sẽ không chịu bất kỳ trách nhiệm nào trong mọi trường hợp về các tranh chấp, thiệt hại mà người sử dụng hoặc bên thứ ba phải chịu bao gồm nhưng không giới hạn về các tranh chấp, thiệt hại được phát sinh từ:
+Sự thiếu chính xác hoặc không đầy đủ thông tin trên trang web AVIA.VN, trang mạng xã hội, ứng dụng khác do WEFLY quản lý;
+Việc đăng tải thông tin của người sử dụng là vi phạm quy định về quyền sở hữu trí tuệ;
+Thiệt hại từ bất kỳ sự gián đoạn thông tin, đường truyền tín hiệu, lỗi virut hoặc bất kỳ phần mềm nào phát sinh từ trang web AVIA.VN, trang mạng xã hội, ứng dụng khác do WEFLY quản lý;
+Việc sử dụng bất hợp pháp hệ thống máy chủ của trang web AVIA.VN, trang mạng xã hội, ứng dụng khác do WEFLY quản lý;
+Thiệt hại từ việc bên thứ ba sử dụng hợp pháp hoặc bất hợp pháp tài khoản của người sử dụng;
+Khiếu nại từ bên thứ ba về việc đăng tải thông tin của người sử dụng.
+
+4: Tranh chấp
+
+Mọi tranh chấp olên quan đến nội dung về quyền sở hữu trí tuệ đã nêu ở trên sẽ được các bên giải quyết thông qua thương lượng, trường hợp việc thương lượng không đạt, các bên có quyền yêu cầu tòa án có thẩm quyền của Việt Nam giải quyết, luật áp dụng để giải quyết trong trường hợp này là pháp luật Việt Nam. WEFLY sẽ được miễn trừ trách nhiệm nếu các tranh chấp phát sinh thuộc các trường hợp quy định tại mục Miễn trừ trách nhiệm nêu trên.</value>
+  </data>
+  <data name="CmdNext2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="ButtonX2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="CmdThayDoi.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABhElEQVQ4T6WSy0sCURTG7/+ShVQ6PnrN
+        aGqpq1pZ2yKCoHZu3LgMWwa6aVvRNvIPEGtZ+BosTbNJiF6a0INKirLT3Htn6g6mJB348d1zvvOd2QxS
+        q+i1Q9FrI5yQN0Wx21fBI0DjpS7zzCgFe8ra73Xs5uG9WmGoUq3RPr/gA7xTcAvkGFbcY8iB/PgIvJ1J
+        TbyelqhKJQrTkx1JApxFubFhqGeSbUhDXjC1BB26BuFpN07ZYzQek98xsnS7sQafjQ8N99Et5YBzAB6i
+        2/AY3dFcVrlZDZFANRL6IbxMwD7KOqxwt7kOOZ6Dq8BS05cwl4FF4mFlwRkkOixQi4ThaMgA57PTMlOU
+        GZ+2/0aZyT7OIHHUAtWVEGStvVCecEN50kNR31jZOePhDMrYzVAJBkE060FyCa1x8lqVES16QGmbCa79
+        fkhzPdBJJRIFkkEpG0cOpLhuxfpb4QM4g5KCES7m5iFh0JFhRxh19HdO8kY46O+i9FH2WZXnWNUZQZ6R
+        8P8KoS/L6YTsK7u26QAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <metadata name="SaveFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>43</value>
+  </metadata>
+</root>

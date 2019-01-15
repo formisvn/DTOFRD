@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Datasharing>
+    <madt>1</madt>
+    <tendt_vi>Dữ liệu tài nguyên rừng năm 2017</tendt_vi>
+	<tendt_en>Forest resource data 2017</tendt_en>
+	<geoservername>dulieu2017</geoservername>
+	<chiso>1</chiso>
+	<tinh>1</tinh>
+	<huyen>1</huyen>
+	<xa>1</xa>
+  </Datasharing>
+  <Datasharing>
+    <madt>2</madt>
+    <tendt_vi>Dữ liệu tài nguyên rừng năm 2016</tendt_vi>
+	<tendt_en>Forest resource data 2016</tendt_en>
+	<geoservername>dulieu2016</geoservername>
+	<chiso>1</chiso>
+	<tinh>1</tinh>
+	<huyen>1</huyen>
+	<xa>1</xa>
+  </Datasharing>
+    <Datasharing>
+    <madt>3</madt>
+    <tendt_vi>Dữ liệu điều tra kiểm kê rừng (NFIF 2014-2016)</tendt_vi>
+	<tendt_en>Forest resource data NFIF</tendt_en>
+	<geoservername>dulieu2014</geoservername>
+	<chiso>1</chiso>
+	<tinh>1</tinh>
+	<huyen>1</huyen>
+	<xa>1</xa>
+  </Datasharing>
+    <Datasharing>
+    <madt>4</madt>
+    <tendt_vi>Dữ liệu 4 chu kỳ (NFI 1990 - 2010)</tendt_vi>
+	<tendt_en>Forest resource data 4 circles (NFI 1990 - 2010)</tendt_en>
+	<geoservername>dulieu4ck</geoservername>
+	<chiso>0</chiso>
+	<tinh>0</tinh>
+	<huyen>0</huyen>
+	<xa>0</xa>
+  </Datasharing>
+</DocumentElement>

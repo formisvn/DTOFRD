@@ -1,0 +1,17 @@
+C:\Formis\App\Downloading Tool\Downloading Tool\bin\Release\Downloading Tool.exe
+C:\Formis\App\Downloading Tool\Downloading Tool\bin\Release\Downloading Tool.pdb
+C:\Formis\App\Downloading Tool\Downloading Tool\bin\Release\Downloading Tool.xml
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Release\ResolveAssemblyReference.cache
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Release\Downloading_Tool.Lst_Huyen2.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Release\Downloading_Tool.Lst_Tinh2.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Release\Downloading_Tool.Lst_Xa2.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Release\Downloading_Tool.TestForm.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Release\Downloading_Tool.ThongTinCaNhan.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Release\Downloading_Tool.TaiVe.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Release\Downloading_Tool.DieuKhoan.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Release\Downloading_Tool.MainForm.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Release\Downloading_Tool.Resources.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Release\Downloading Tool.vbproj.GenerateResource.Cache
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Release\Downloading Tool.exe
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Release\Downloading Tool.xml
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Release\Downloading Tool.pdb

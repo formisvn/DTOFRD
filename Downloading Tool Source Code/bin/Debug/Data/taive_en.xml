@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <taive_en>
+    <Group_3>Select options need to download</Group_3>
+	<group_hanhchinh>Select the administrative informations</group_hanhchinh>
+	<Group_chiso>Select the parameters</Group_chiso>
+	<Group_shapefile>Select shapefile path</Group_shapefile>
+	<CmdHuy>Cancel</CmdHuy>
+	<cmdTaiVe>Download</cmdTaiVe>
+	<lab_chonDL>Database</lab_chonDL>
+	<lab_tinh>Province</lab_tinh>
+	<lab_huyen>District</lab_huyen>
+	<lab_xa>Commune</lab_xa>
+	<chk_all>Select all</chk_all>
+	<CmdThayDoi>Browse</CmdThayDoi>
+	<Group_nam>Select year of 4 circles data</Group_nam>
+	<CmdCSVFile>CSV file</CmdCSVFile>
+	<CmdCSVFile>CSV file</CmdCSVFile>
+  </taive_en>
+  
+</DocumentElement>

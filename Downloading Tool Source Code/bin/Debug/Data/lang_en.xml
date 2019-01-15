@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <lang_en>
+    <lab_hoten>FullName</lab_hoten>
+    <lab_cmnd>ID/Passport No.</lab_cmnd>
+	<lab_ngaycap>Date of issue</lab_ngaycap>
+	<lab_noicap>Place of issue</lab_noicap>
+	<lab_gioitinh>Sex</lab_gioitinh>
+	<lab_tochuc>Organization</lab_tochuc>
+	<lab_diachi>Address</lab_diachi>
+	<lab_dienthoai>Phone</lab_dienthoai>
+	<lab_email>Email</lab_email>
+	<lab_mucdich>Purpose of downloading data</lab_mucdich>
+	<cmdLuuThongTin>Save User Info</cmdLuuThongTin>
+	<CmdNapthongtin>Load User Info</CmdNapthongtin>
+	<CmdNext1>Next</CmdNext1>
+	<lab_redpoint>                 Fields marked       are required</lab_redpoint>
+	<Group_1>INPUT THE INFOMATION OF PERSON/ORGANIZATION</Group_1>
+	
+  </lang_en>
+  
+</DocumentElement>

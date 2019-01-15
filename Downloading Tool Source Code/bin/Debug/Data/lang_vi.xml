@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <lang_vi>
+    <lab_hoten>Họ và tên</lab_hoten>
+    <lab_cmnd>Số CMND</lab_cmnd>
+	<lab_ngaycap>Ngày cấp</lab_ngaycap>
+	<lab_noicap>Nơi cấp</lab_noicap>
+	<lab_gioitinh>Giới tính</lab_gioitinh>
+	<lab_tochuc>Tổ chức</lab_tochuc>
+	<lab_diachi>Địa chỉ</lab_diachi>
+	<lab_dienthoai>Điện thoại</lab_dienthoai>
+	<lab_email>Email</lab_email>
+	<lab_mucdich>Mục đích sử dụng dữ liệu</lab_mucdich>
+	<cmdLuuThongTin>Lưu thông tin</cmdLuuThongTin>
+	<CmdNapthongtin>Nạp thông tin</CmdNapthongtin>
+	<CmdNext1>Chấp nhận</CmdNext1>
+	<lab_redpoint>Các trường được đánh dấu      là bắt buộc</lab_redpoint>
+	<Group_1>NHẬP THÔNG TIN CÁ NHÂN/TỔ CHỨC CẦN TẢI DỮ LIỆU</Group_1>
+  </lang_vi>
+  
+</DocumentElement>

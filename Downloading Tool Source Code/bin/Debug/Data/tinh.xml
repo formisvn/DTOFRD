@@ -1,0 +1,255 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Tinh>
+    <matinh>1</matinh>
+    <tentinh>Thành phố Hà Nội</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>2</matinh>
+    <tentinh>Tỉnh Hà Giang</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>4</matinh>
+    <tentinh>Tỉnh Cao Bằng</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>6</matinh>
+    <tentinh>Tỉnh Bắk Kạn</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>8</matinh>
+    <tentinh>Tỉnh Tuyên Quang</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>10</matinh>
+    <tentinh>Tỉnh Lào Cai</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>11</matinh>
+    <tentinh>Tỉnh Điện Biên</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>12</matinh>
+    <tentinh>Tỉnh Lai Châu</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>14</matinh>
+    <tentinh>Tỉnh Sơn La</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>15</matinh>
+    <tentinh>Tỉnh Yên Bái</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>17</matinh>
+    <tentinh>Tỉnh Hòa Bình</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>19</matinh>
+    <tentinh>Tỉnh Thái Nguyên</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>20</matinh>
+    <tentinh>Tỉnh Lạng Sơn</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>22</matinh>
+    <tentinh>Tỉnh Quảng Ninh</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>24</matinh>
+    <tentinh>Tỉnh Bắc Giang</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>25</matinh>
+    <tentinh>Tỉnh Phú Thọ</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>26</matinh>
+    <tentinh>Tỉnh Vĩnh Phúc</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>27</matinh>
+    <tentinh>Tỉnh Bắc Ninh</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>30</matinh>
+    <tentinh>Tỉnh Hải Dương</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>31</matinh>
+    <tentinh>Thành Phố  Hải Phòng</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>33</matinh>
+    <tentinh>Tỉnh Hưng Yên</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>34</matinh>
+    <tentinh>Tỉnh Thái Bình</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>35</matinh>
+    <tentinh>Tỉnh Hà Nam</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>36</matinh>
+    <tentinh>Tỉnh Nam Định</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>37</matinh>
+    <tentinh>Tỉnh Ninh Bình</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>38</matinh>
+    <tentinh>Tỉnh Thanh Hóa</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>40</matinh>
+    <tentinh>Tỉnh Nghệ An</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>42</matinh>
+    <tentinh>Tỉnh Hà Tĩnh</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>44</matinh>
+    <tentinh>Tỉnh Quảng Bình</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>45</matinh>
+    <tentinh>Tỉnh Quảng Trị</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>46</matinh>
+    <tentinh>Tỉnh Thừa Thiên Huế</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>48</matinh>
+    <tentinh>Thành Phố Đà Nẵng</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>49</matinh>
+    <tentinh>Tỉnh Quảng Nam</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>51</matinh>
+    <tentinh>Tỉnh Quảng Ngãi</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>52</matinh>
+    <tentinh>Tỉnh Bình Định</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>54</matinh>
+    <tentinh>Tỉnh Phú Yên</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>56</matinh>
+    <tentinh>Tỉnh Khánh Hoà</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>58</matinh>
+    <tentinh>Tỉnh Ninh Thuận</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>60</matinh>
+    <tentinh>Tỉnh  Bình Thuận</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>62</matinh>
+    <tentinh>Tỉnh Kon Tum</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>64</matinh>
+    <tentinh>Tỉnh Gia Lai</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>66</matinh>
+    <tentinh>Tỉnh Đăk Lăk</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>67</matinh>
+    <tentinh>Tỉnh Đăk Nông</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>68</matinh>
+    <tentinh>Tỉnh Lâm Đồng</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>70</matinh>
+    <tentinh>Tỉnh Bình Phước</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>72</matinh>
+    <tentinh>Tỉnh Tây Ninh</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>74</matinh>
+    <tentinh>Tỉnh Bình Dương</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>75</matinh>
+    <tentinh>Tỉnh Đồng Nai</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>77</matinh>
+    <tentinh>Tỉnh Bà Rịa-Vũng Tàu</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>79</matinh>
+    <tentinh>Thành Phố Hồ Chí Minh</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>80</matinh>
+    <tentinh>Tỉnh Long An</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>82</matinh>
+    <tentinh>Tỉnh Tiền Giang</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>83</matinh>
+    <tentinh>Tỉnh Bến Tre</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>84</matinh>
+    <tentinh>Tỉnh Trà Vinh</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>86</matinh>
+    <tentinh>Tỉnh Vĩnh Long</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>87</matinh>
+    <tentinh>Tỉnh Đồng Tháp</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>89</matinh>
+    <tentinh>Tỉnh An Giang</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>91</matinh>
+    <tentinh>Tỉnh Kiên Giang</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>92</matinh>
+    <tentinh>Thành Phố  Cần Thơ</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>93</matinh>
+    <tentinh>Tỉnh Hậu Giang</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>94</matinh>
+    <tentinh>Tỉnh Sóc Trăng</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>95</matinh>
+    <tentinh>Tỉnh Bạc Liêu</tentinh>
+  </Tinh>
+  <Tinh>
+    <matinh>96</matinh>
+    <tentinh>Tỉnh Cà Mau</tentinh>
+  </Tinh>
+</DocumentElement>

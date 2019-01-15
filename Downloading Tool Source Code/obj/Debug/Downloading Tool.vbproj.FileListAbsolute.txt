@@ -1,0 +1,30 @@
+C:\Formis\App\Downloading Tool\Downloading Tool\bin\Debug\Downloading Tool.exe
+C:\Formis\App\Downloading Tool\Downloading Tool\bin\Debug\Downloading Tool.pdb
+C:\Formis\App\Downloading Tool\Downloading Tool\bin\Debug\Downloading Tool.xml
+C:\Formis\App\Downloading Tool\Downloading Tool\bin\Debug\Newtonsoft.Json.dll
+C:\Formis\App\Downloading Tool\Downloading Tool\bin\Debug\RestSharp.Build.dll
+C:\Formis\App\Downloading Tool\Downloading Tool\bin\Debug\RestSharp.dll
+C:\Formis\App\Downloading Tool\Downloading Tool\bin\Debug\RestSharp.pdb
+C:\Formis\App\Downloading Tool\Downloading Tool\bin\Debug\RestSharp.xml
+C:\Formis\App\Downloading Tool\Downloading Tool\bin\Debug\RestSharp.Build.pdb
+C:\Formis\App\Downloading Tool\Downloading Tool\bin\Debug\Newtonsoft.Json.pdb
+C:\Formis\App\Downloading Tool\Downloading Tool\bin\Debug\Newtonsoft.Json.xml
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\ResolveAssemblyReference.cache
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading_Tool.Lst_Huyen2.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading_Tool.Lst_Tinh2.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading_Tool.Lst_Xa2.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading_Tool.TestForm.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading_Tool.MapPreview.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading_Tool.Splash.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading_Tool.ThongTinCaNhan.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading_Tool.TaiVe.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading_Tool.DieuKhoan.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading_Tool.MainForm.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading_Tool.Resources.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading_Tool.Tientrinh2.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading_Tool.Wait.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading_Tool.XacThucEmail.resources
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading Tool.vbproj.GenerateResource.Cache
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading Tool.exe
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading Tool.xml
+C:\Formis\App\Downloading Tool\Downloading Tool\obj\Debug\Downloading Tool.pdb
